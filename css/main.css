@@ -184,6 +184,7 @@ nav {
     }
     p.date {
         font-size:0.8rem;
+        margin-bottom: 0;
     }
     p.date span {
         vertical-align: top;
