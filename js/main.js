@@ -228,6 +228,10 @@ function showEventModal(m) {
                 break
             }
         }
+        if(typeof(m) == "string") {
+            console.log("event not found:", m)
+            return
+        }
     }
 
     location.hash = `#${m.eventid}`
@@ -278,10 +282,40 @@ function showEventModal(m) {
     }
 }
 
+
+
+function showCharaResume(c) {
+    if(typeof(c) == "string") {
+        for(chara of charaMovies) {
+            if(c == chara.pid) {
+                c = chara
+                break
+            }
+        }
+        if(typeof(c) == "string") {
+            console.log("chara not found:", c)
+            return
+        }
+    }
+
+    console.log(c)
+
+    let id = ("00" + c.pid).slice(-3)
+    $(".modal-body").html("");
+    $(".modal-history ul").html("");
+    $(".modal-history").hide();
+    $(".modal-banner img").attr("src", `resume/${id}c.avif`);
+    $("#exampleModalCenterTitle").html(c.name);
+    $(".modal-body").html(``)
+    //$(".modal-body").html(`<img src="resume/${id}c.avif" style="width: 100%;" />`)
+    $("#exampleModalCenter").modal()
+}
+
 function generateCharaHtml(m) {
     let template = $("#template-chara .moviecard > div").clone(true);
     template.find(".card-title").html(m.name);
     let pid = ("000" + m.pid).slice(-3);
+
     template.find("img").attr("src", `face/${pid}.avif`);
 
     if(m.series != "アリス・ギア・アイギス") {
@@ -289,6 +323,10 @@ function generateCharaHtml(m) {
     }
     template.find("a.cep").attr("href", "https://www.youtube.com/watch?v=" + m.cep)
     template.find("a.kep").attr("href", "https://www.youtube.com/watch?v=" + m.kep)
+
+    template.find(".resume").click((e) => {
+        showCharaResume(m);
+    })
 
     return template;
 }
@@ -389,6 +427,7 @@ $(document).ready(function(){
     if(location.hash) {
         let evid = location.hash.slice(1)
         if(evid) {
+            console.log("show event:", evid)
             showEventModal(evid)
         }
     }
@@ -434,6 +473,7 @@ $(document).ready(function(){
     
     if(location.origin != "http://127.0.0.1:5500") {
         $("a.synopsis").hide()
+        $("a.resume").hide()
     }
 })
 

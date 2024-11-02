@@ -1,5 +1,7 @@
 const evm = 
 [
+
+
   {"year":"2024","date":"2024-10-03","title":"ダライアスバーストCSコア コラボ -導きの銀翼- EXTRA","evtype":"復刻","tag":"Collabo","videoid":"9GO2uBpsCDw","refdate":"","synopsis":true,"listid":"PLvzM95R0vZGGlT6SLEP1wm8nuBi1IrVEh","listname":"ダライアス コズミックリベレーション","eventid":"20241003a","series":"","history":""},
   {"year":"2024","date":"2024-09-26","title":"杏奈と小結のテレビショッピング","evtype":"新規","tag":"Collabo","videoid":"ZDTvJtkJ4Ag","refdate":"","synopsis":true,"listid":"PLvzM95R0vZGGKFUq5BbXnQ61pGJhYQhmh","listname":"イベント2024","eventid":"20240926a","series":"","history":""},
   {"year":"2024","date":"2024-09-25","title":"ダライアスメモリアル","evtype":"復刻","tag":"Collabo","videoid":"JGZ1ENrIOWE","refdate":"","synopsis":false,"listid":"PLvzM95R0vZGGKFUq5BbXnQ61pGJhYQhmh","listname":"イベント2024","eventid":"20240925a","series":"","history":""},
@@ -183,7 +185,7 @@ const evm =
   {"year":"2021","date":"2021-01-22","title":"AEGiS支給品発売記念","evtype":"新規","tag":"Mini","videoid":"J5mANx0rwEg","refdate":"","synopsis":false,"listid":"PLvzM95R0vZGECUvXFCym0TGLpQk38xpdw","listname":"イベント2021","eventid":"20210122c","series":"","history":""},
   {"year":"2021","date":"2021-01-22","title":"おにぎり狂想曲かぷりっちょ♪","evtype":"復刻","tag":"Normal","videoid":"MqqcRhI9R6g","refdate":"","synopsis":false,"listid":"PLvzM95R0vZGECUvXFCym0TGLpQk38xpdw","listname":"イベント2021","eventid":"20210122b","series":"おにぎり狂想曲かぷりっちょ♪","history":""},
   {"year":"2021","date":"2021-01-22","title":"ことほげ！！！ ～成子坂への招待状～","evtype":"新規","tag":"Normal","videoid":"FKqBSjm3p4Q","refdate":"","synopsis":true,"listid":"PLvzM95R0vZGECUvXFCym0TGLpQk38xpdw","listname":"イベント2021","eventid":"20210122a","series":"","history":""},
-  {"year":"2021","date":"2021-01-01","title":"成子坂のお正月-モー働くの？-","evtype":"新規","tag":"Mini","videoid":"kmclO47aG1Q","refdate":"","synopsis":false,"listid":"PLvzM95R0vZGECUvXFCym0TGLpQk38xpdw","listname":"イベント2021","eventid":"20210101a","series":"","history":""},
+  {"year":"2021","date":"2021-01-01","title":"成子坂のお正月-モー働くの？-","evtype":"新規","tag":"Mini","videoid":"kmclO47aG1Q","refdate":"","synopsis":true,"listid":"PLvzM95R0vZGECUvXFCym0TGLpQk38xpdw","listname":"イベント2021","eventid":"20210101a","series":"","history":""},
   {"year":"2020","date":"2020-12-31","title":"令和二度目の大晦日","evtype":"新規","tag":"Normal","videoid":"koxu1y-Tclk","refdate":"","synopsis":false,"listid":"PLvzM95R0vZGE5UtaQKzx_OIE1Sykt0ysr","listname":"イベント2020","eventid":"20201231a","series":"","history":""},
   {"year":"2020","date":"2020-12-25","title":"トロピカルウィンター","evtype":"新規","tag":"Mini","videoid":"","refdate":"","synopsis":false,"listid":"PLvzM95R0vZGE5UtaQKzx_OIE1Sykt0ysr","listname":"イベント2020","eventid":"20201225a","series":"","history":""},
   {"year":"2020","date":"2020-12-21","title":"メガミデバイスコラボ 成子坂プラスチックモデラーズ","evtype":"復刻+追加","tag":"Collabo","videoid":"","refdate":"2019-04-25","synopsis":true,"listid":"PLvzM95R0vZGHj-jzmPJS2fHBDhvxymfF7","listname":"メガミデバイス","eventid":"20201221a","series":"メガミデバイスコラボ 成子坂プラスチックモデラーズ","history":"追加エピソード"},
@@ -219,7 +221,7 @@ const evm =
   {"year":"2020","date":"2020-02-06","title":"大好きな隊長へ アクトレスより愛を込めて","evtype":"新規","tag":"Normal","videoid":"4s8CSkfO6UI","refdate":"","synopsis":false,"listid":"PLvzM95R0vZGE5UtaQKzx_OIE1Sykt0ysr","listname":"イベント2020","eventid":"20200206a","series":"","history":""},
   {"year":"2020","date":"2020-01-22","title":"事務員天使 ようこそ陽子","evtype":"新規","tag":"Normal","videoid":"f63CTVmOu9w","refdate":"","synopsis":true,"listid":"PLvzM95R0vZGE5UtaQKzx_OIE1Sykt0ysr","listname":"イベント2020","eventid":"20200122a","series":"","history":""},
   {"year":"2020","date":"2020-01-08","title":"バーベナを抱きしめて","evtype":"復刻","tag":"Normal","videoid":"oQXbV05mOjY","refdate":"","synopsis":true,"listid":"PLvzM95R0vZGE5UtaQKzx_OIE1Sykt0ysr","listname":"イベント2020","eventid":"20200108a","series":"バーベナを抱きしめて","history":""},
-  {"year":"2020","date":"2020-01-01","title":"元旦くらい休みません？ ～アクトレスは年中無休～","evtype":"新規","tag":"Mini","videoid":"M0UTqxfSig8","refdate":"","synopsis":false,"listid":"PLvzM95R0vZGE5UtaQKzx_OIE1Sykt0ysr","listname":"イベント2020","eventid":"20200101a","series":"","history":""},
+  {"year":"2020","date":"2020-01-01","title":"元旦くらい休みません？ ～アクトレスは年中無休～","evtype":"新規","tag":"Mini","videoid":"M0UTqxfSig8","refdate":"","synopsis":true,"listid":"PLvzM95R0vZGE5UtaQKzx_OIE1Sykt0ysr","listname":"イベント2020","eventid":"20200101a","series":"","history":""},
   {"year":"2019","date":"2019-12-31","title":"令和最初の大晦日","evtype":"新規","tag":"Mini","videoid":"mZ1cIYvZHAU","refdate":"","synopsis":false,"listid":"PLvzM95R0vZGE3NUCuN4AUpF6v1SGN0__W","listname":"イベント2019","eventid":"20191231a","series":"","history":""},
   {"year":"2019","date":"2019-12-25","title":"バーベナCD発売開始記念","evtype":"新規","tag":"Mini","videoid":"N8jn6Y7JWXM","refdate":"","synopsis":false,"listid":"PLvzM95R0vZGE3NUCuN4AUpF6v1SGN0__W","listname":"イベント2019","eventid":"20191225b","series":"","history":""},
   {"year":"2019","date":"2019-12-25","title":"マイ・フェア・レディ","evtype":"新規","tag":"Normal","videoid":"jJ0YYhTb9Sk","refdate":"","synopsis":true,"listid":"PLvzM95R0vZGE3NUCuN4AUpF6v1SGN0__W","listname":"イベント2019","eventid":"20191225a","series":"","history":""},
