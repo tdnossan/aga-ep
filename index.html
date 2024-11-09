@@ -1,31 +1,27 @@
 <!doctype html>
 <html lang="ja">
   <head>
-    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noindex,nofollow,noarchive">
     <meta name="googlebot" content="noindex,nofollow,noarchive">
-
-    <!-- Bootstrap CSS -->
     <link href="./honoka/css/bootstrap.min.css" rel="stylesheet">
     <link href="./css/main.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
-
     <title>AGA EP GALLERY</title>
   </head>
   <body>
     <script src="//accaii.com/agaep/script.js" async></script><noscript><img src="//accaii.com/agaep/script?guid=on"></noscript>
     <nav>
       <div class="nav nav-tabs" id="nav-tab" role="tablist">
-        <button class="nav-link active" id="nav-event-tab" data-toggle="tab" data-target="#nav-event" type="button" role="tab" aria-controls="nav-event" aria-selected="false">event</button>
+        <button class="nav-link" id="nav-event-tab" data-toggle="tab" data-target="#nav-event" type="button" role="tab" aria-controls="nav-event" aria-selected="false">event</button>
         <button class="nav-link" id="nav-story-tab" data-toggle="tab" data-target="#nav-story" type="button" role="tab" aria-controls="nav-story" aria-selected="true">story</button>
         <button class="nav-link" id="nav-chara-tab" data-toggle="tab" data-target="#nav-chara" type="button" role="tab" aria-controls="nav-chara" aria-selected="false">chara</button>
       </div>
     </nav>
     <div id="nav-tabContent" class="tab-content">
 
-      <div id="nav-event" class="tab-pane fade show active" role="tabpanel" aria-labelledby="nav-event-tab">
+      <div id="nav-event" class="tab-pane fade show" role="tabpanel" aria-labelledby="nav-event-tab">
         <div class="filter-list">
           <div id="event-year-filter" data-filter="event-year"></div>
           <div id="event-tag-filter" data-filter="event-tag"></div>
@@ -35,7 +31,7 @@
 
       <div id="nav-story" class="tab-pane fade show" role="tabpanel" aria-labelledby="nav-story-tab">
         <div class="filter-list">
-          <div id="story-part-filter" data-filter="story-part"></div>
+          <div id="story-partname-filter" data-filter="story-partname"></div>
         </div>
         <div id="story-movies" class="movie-list"></div>
       </div>
@@ -88,9 +84,13 @@
         <div class="card">
           <div class="card-body">
             <h5 class="card-title">{{title}}</h5>
+            <ul class="list"></ul>
+            <!--
             <p class="btn-block">
-              <a href="#" class="btn btn-primary cep" target="_blank"> 録画 <i class="bi-box-arrow-in-up-right"></i></a>
-            </p>
+              <a target="_blank">
+                <button class="btn btn-primary">録画 <i class="bi-box-arrow-in-up-right"></i></button>
+              </a>
+            </p>-->
           </div>
         </div>
       </div>
@@ -108,11 +108,12 @@
                 <p class="date">{{date}}</p>
                 <h5 class="card-title">{{title}}</h5>
                 <p class="btn-block">
-                  <a href="#" class="btn-sm btn-primary ytlink" target="_blank"> 録画 <i class="bi-box-arrow-in-up-right"></i></a>
-                  <a href="#" class="btn-sm btn-primary synopsis" data-toggle="modal" data-target="#exampleModalCenter">info</a>
-                  <!--
-                  <button type="button" class="btn-sm btn-primary synopsis" data-toggle="modal" data-target="#exampleModalCenter">info</button>
-                  -->
+                  <a target="_blank" class="ytlink">
+                    <button class="btn-sm btn-primary" target="_blank">
+                      録画 <i class="bi-box-arrow-in-up-right"></i>
+                    </button>
+                  </a>
+                  <button class="btn-sm btn-primary synopsis" data-toggle="modal" data-target="#exampleModalCenter">info</button>
                 </p>
               </div>
             </div>
@@ -126,28 +127,26 @@
         <div class="card chara">
           <div class="row">
             <div class="col-auto">
-              <img src="dummy.jpg" class="img-fluid event-banner" alt="" loading="lazy">
+              <img src="" class="img-fluid event-banner" alt="" loading="lazy">
             </div>
             <div class="col-auto">
               <div class="card-body">
                 <h5 class="card-title"></h5>
-                <a href="#" class="btn-sm btn-primary cep" target="_blank"> キャラEp </a>
-                <a href="#" class="btn-sm btn-primary kep" target="_blank"> 絆Ep </a>
+                <a target="_blank" class="cep">
+                  <button class="btn-sm btn-primary" target="_blank">キャラEp <i class="bi-box-arrow-in-up-right"></i></button>
+                </a>
+                <a target="_blank" class="kep">
+                  <button class="btn-sm btn-primary" target="_blank">絆Ep <i class="bi-box-arrow-in-up-right"></i></button>
+                </a>
               </div>
               <div class="card-body">
-                <a href="#" class="btn-sm btn-primary resume" data-toggle="modal" data-target="#exampleModalCenter"> 履歴書 </a>
+                <button class="btn-sm btn-primary resume" data-toggle="modal" data-target="#exampleModalCenter"> 履歴書 </button>
               </div>
             </div>
           </div>
         </div>
       </div>
     </div>
-
-    <!--
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
-      Launch demo modal
-    </button>
-    -->
 
     <!-- Modal -->
     <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -164,7 +163,7 @@
             <ul class="list-group list-group-flush">
             </ul>
           </div>
-          <div class="modal-banner"><img src="dummy.jpg" class="img-fluid" alt=""></div>
+          <div class="modal-banner"><img src="" class="img-fluid" alt=""></div>
           <div class="modal-body">
           </div>
           <div class="modal-footer">
@@ -174,29 +173,12 @@
       </div>
     </div>
 
-    <!--
-    <button type="button" class="btn btn-lg btn-danger" data-bs-toggle="popover" title="Popover title" data-bs-content="And here's some amazing content. It's very engaging. Right?">Click to toggle popover</button>
-    <p class="muted">Placeholder text to demonstrate some <a href="#" data-bs-toggle="tooltip" data-bs-title="Default tooltip">inline links</a> with tooltips. This is now just filler, no killer. Content placed here just to mimic the presence of <a href="#" data-bs-toggle="tooltip" data-bs-title="Another tooltip">real text</a>. And all that just to give you an idea of how tooltips would look when used in real-world situations. So hopefully you've now seen how <a href="#" data-bs-toggle="tooltip" data-bs-title="Another one here too">these tooltips on links</a> can work in practice, once you use them on <a href="#" data-bs-toggle="tooltip" data-bs-title="The last tip!">your own</a> site or project.</p>
-    -->
-
     <a id="topbutton" onclick="window.scrollTo(0,0)">
       <i class="bi bi-arrow-up-circle-fill"></i>
     </a>
-    <!--
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-    -->
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-    <script src="./js/movie.js"></script>
-    <script src="./js/chara.js"></script>
-    <script src="./js/story.js"></script>
-    <script src="./js/main.js"></script>
+    <script type="module" src="./js/main.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-    <!--
-    <script>
-      const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
-      const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
-    </script>
-    -->
   </body>
 </html>

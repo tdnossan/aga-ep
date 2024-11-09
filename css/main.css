@@ -32,30 +32,6 @@ nav {
     overflow-x: hidden;
 }
 
-/*
-.scrollable-menu {
-    height: auto;
-    max-height: 200px;
-    overflow-x: hidden;
-}*/
-/*
-.dropdown-menu.chara {
-    width: max-content !important;
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.dropdown-menu.chara .row a {
-    flex-basis: 50%;
-    height: 2.5rem;
-    line-height: 1rem;
-    display: flex;
-    align-items: center;
-}
-.dropdown-menu.chara .col {
-    padding-right: 0;
-    padding-left: 0;
-}*/
 
 .modal-dialog {
     max-width: 600px;
@@ -103,58 +79,6 @@ nav {
     font-size: 1.5rem;
 }
 
-
-
-.modal-body {
-    text-align: center;
-    font-size: clamp(12px, 2.0vw, 20px); /*13.87px;*/
-
-    p, div {
-        line-height: 2rem;
-    }
-    .bg_skin {
-        background-color: #fff6e9;
-    }
-    .bg_white {
-        background-color: #fff;
-    }
-    .pink {
-        color: #ec23c4;
-    }
-    .red {
-        color: #e61836;
-    }
-    .navy {
-        color: #3f58d9;
-    }
-    .yellow {
-        color: #6c7900;
-    }
-    .purple {
-        color: #7727ee;
-    }
-    .skyblue {
-        color: #2399ec;
-    }
-    .orange {
-        color: #de5900;
-    }
-    .bold {
-        font-weight: bold;
-    }
-    img { /* あらすじ画像の隙間対策 */
-        margin-top: -0.4rem !important;
-    }
-    .event-date {
-        background-color: #525252;
-        color: #fff;
-        text-align: center;
-        padding: .05rem .3rem;
-        font-weight: bold;
-        font-size: 90%;
-    }
-}
-
 .modal-banner {
     padding: 1rem;
 }
@@ -167,8 +91,12 @@ nav {
 .card-body {
     padding: 0.3rem 0.4rem 0.3rem 0.5rem;
 
+
+    button a {
+        color: #fff
+    }
     .btn {
-        font-size: 0.8rem;
+        /*font-size: 0.8rem;*/
     }
     .badge {
         font-size:0.8rem
@@ -184,7 +112,6 @@ nav {
     }
     p.date {
         font-size:0.8rem;
-        margin-bottom: 0;
     }
     p.date span {
         vertical-align: top;
@@ -194,6 +121,25 @@ nav {
 
 .card-body + .card-body {
     padding-top: 0;
+}
+
+.card-body .list  {
+    padding-left: 0;
+    li {
+        margin-bottom: 0.5rem;
+        list-style-type: none;
+    }
+    a {
+        margin-right: 0
+    }
+    a:hover {
+        text-decoration: none;
+    }
+}
+
+.card-body .list .title {
+    display: inline-block;
+
 }
 
 .modal-history {
@@ -220,23 +166,3 @@ nav {
 #topbutton:hover {
     opacity: 1.0;
 }
-.hidden-contents {
-    display: none;
-}
-/*
-.text-btn{
-    font-size:150%;line-height:150%;
-    font-weight:bold;
-    border-radius:.4rem;
-    margin:.2rem auto;
-    padding:.05rem .2rem;
-    box-shadow:0 .02rem .08rem rgba(0,0,0,0.5),0 .02rem .08rem rgba(255,255,255,0.5) inset;
-    text-align:center;
-}
-.btn-blue{
-    background-image:-webkit-gradient(linear,left top,left bottom,from(#00c6ff),to(#009cff));
-    background-image:linear-gradient(to bottom,#00c6ff 0,#009cff 100%);
-    color:#fff;
-    border:.02rem solid #194550;
-    text-shadow:.02rem .02rem .03rem #105285,.02rem -.02rem .03rem #105285,-.02rem .02rem .03rem #105285,-.02rem -.02rem .03rem #105285;
-}*/
