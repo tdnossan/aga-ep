@@ -234,8 +234,8 @@ class CharaCard extends MovieCard {
     
         t.find("img").attr("src", `face/${pid}.avif`)
     
-        if(m.series != "アリス・ギア・アイギス") {
-            t.find("button.cep").hide()
+        if(m.series != "アリス・ギア・アイギス" && !LOCAL) {
+            t.find("a.cep").hide()
         }
 
         t.find("a.cep").attr("href", "https://www.youtube.com/watch?v=" + m.cep)
@@ -279,10 +279,10 @@ class StoryCard extends MovieCard {
 
     constructor(movies) {
         super(movies)
-        console.log("st:", this)
+        //console.log("st:", this)
 
         this.movies = []
-        console.log(movies)
+        //console.log(movies)
         let names = uniqueValue(movies, "partname")
         //let parts = []
 
@@ -291,7 +291,7 @@ class StoryCard extends MovieCard {
             this.movies.push(new StoryPart(list))
         }
 
-        console.log(this.movies)
+        //console.log(this.movies)
     }
     genHTML(part) {
         //if(part.ytid == "") return ""
@@ -305,7 +305,7 @@ class StoryCard extends MovieCard {
             <button class="btn btn-primary">録画 <i class="bi-box-arrow-in-up-right"></i></button>
         </a><span class="title">${movie.section}章 ${movie.title}</span></li>`)
         }
-        console.log(html)
+        //console.log(html)
 
         template.find(".card-body .list").html(html.join(""))
         //template.find("a").attr("href", m.ytlink)
@@ -559,7 +559,7 @@ $(document).ready(function(){
 
     if(!LOCAL) {
         $("button.synopsis").hide()
-        $("button.resume").hide()
+        //$("button.resume").hide()
     }
 })
 
