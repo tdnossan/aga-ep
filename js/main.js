@@ -1,6 +1,5 @@
-//import mv from '/data.json' with {type: 'json'}
-import mv from 'https://script.google.com/macros/s/AKfycbx0kiSN8SkObOoCAp1YW-0zDiCjJdkPbWXZx2FCBtt-lTQQ1FB9B0w2mU_Wn-jg6QHC/exec' with {type: 'json'}
- 
+import mv from '/data.json' with {type: 'json'}
+
 function uniqueValue(list, attr) {
     let params = []
     for(let item of list) {
