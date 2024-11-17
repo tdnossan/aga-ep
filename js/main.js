@@ -1,4 +1,4 @@
-import mv from '/data.json' with {type: 'json'}
+import mv from 'data.json' with {type: 'json'}
 
 function uniqueValue(list, attr) {
     let params = []
