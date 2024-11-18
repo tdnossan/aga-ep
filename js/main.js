@@ -233,7 +233,7 @@ class CharaCard extends MovieCard {
     
         t.find("img").attr("src", `face/${pid}.avif`)
     
-        if(m.series != "アリス・ギア・アイギス" && !LOCAL) {
+        if((m.series != "アリス・ギア・アイギス" && m.series != "プロジェクト東京ドールズ") && !LOCAL) {
             t.find("a.cep").hide()
         }
 
