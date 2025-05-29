@@ -233,11 +233,13 @@ class CharaCard extends MovieCard {
     
         t.find("img").attr("src", `face/${pid}.avif`)
     
-        if((m.series != "アリス・ギア・アイギス" && m.series != "プロジェクト東京ドールズ") && !LOCAL) {
+        if(LOCAL || (!LOCAL && !m.hides4)) {
+            t.find("a.cep").attr("href", "https://www.youtube.com/watch?v=" + m.cep)
+        }
+        else {
             t.find("a.cep").hide()
         }
 
-        t.find("a.cep").attr("href", "https://www.youtube.com/watch?v=" + m.cep)
         t.find("a.kep").attr("href", "https://www.youtube.com/watch?v=" + m.kep)
     
         t.find("button.resume").click((e) => {
