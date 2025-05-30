@@ -148,10 +148,6 @@ class EventCard extends MovieCard {
 
         t.find("img").attr("src", `banner/${m.eventid}.avif`)
 
-        if(m.synopsis == false) {
-            t.find(".synopsis").hide()
-        }
-
         t.find(".synopsis").click((e) => {
             this.modal(m)
         })
@@ -326,7 +322,7 @@ class StoryCard extends MovieCard {
     }
 }
 
-const LOCAL = location.origin == 'http://127.0.0.1:5500'
+const LOCAL = location.origin.indexOf("http://127.0.0.1") != -1
 
 var eventMovies = []
 mv.event.map(m => eventMovies.push(new EventMovie(m)))
