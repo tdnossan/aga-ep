@@ -1,0 +1,59 @@
+<div style="background-color:#00b0b1;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                電子の歌姫 <span class="bold" style="color:#00b0b1">初音 ミク</span>の
+            </div>
+<div style="margin-bottom:0.4rem">
+                東京シャードライブツアー開催決定！
+            </div>
+<div style="margin-bottom:0.1rem">
+                最新技術の特殊結合粒子で実体化した
+            </div>
+<div style="margin-bottom:0.1rem">
+                初音 ミクがライブ用の特殊ギアを装備し
+            </div>
+<div style="margin-bottom:0.1rem">
+                東京シャード周辺のあらゆる空間を飛び回り
+            </div>
+<div style="margin-bottom:0.4rem">
+                その歌声を披露します。
+            </div>
+<div style="margin-bottom:0.1rem">
+                東京シャードの<span class="bold" style="color:#f13875">アクトレス</span>を統括する
+            </div>
+<div style="margin-bottom:0.1rem">
+                AEGiS東京およびアライアンス
+            </div>
+<div style="margin-bottom:0.1rem">
+                （東京シャードアクトレス事業者連合）は
+            </div>
+<div style="margin-bottom:0.4rem">
+                ライブツアーを完全サポート！
+            </div>
+<div style="margin-bottom:0.1rem">
+                ライブでの迷惑行為が予想される
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold red">機械生命体ヴァイス</span>はアクトレスが完全駆除し、
+            </div>
+<div style="margin-bottom:0.4rem">
+                安全なステージをお届けします。
+            </div>
+<div style="margin-bottom:0.1rem">
+                さらに初音 ミクのツアーメンバーとして
+            </div>
+<div style="margin-bottom:0.1rem">
+                歌唱とともに、楽曲を盛り上げる曲芸飛行や
+            </div>
+<div style="margin-bottom:0.4rem">
+                各種特殊効果でライブを盛り上げていきます。
+            </div>
+<div style="margin-bottom:0.1rem">
+                初音 ミクとアクトレスが共演する
+            </div>
+<div>
+<span class="bold orange">コラボパフォーマンス</span>をお見逃しなく！
+            </div>
+</div>
+</div>

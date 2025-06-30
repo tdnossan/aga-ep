@@ -1,0 +1,20 @@
+<div style="background-color:#800000;margin:0.5rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+            有明にたたずむ逆三角形の大聖堂。<br/>
+            一心に祈りを捧げる<span class="red bold">王女</span>と<br/>
+            大切な原稿のコピーを落とした<span class="pink bold">家具屋の娘</span>。<br/>
+<br/>
+            どこにでもあるような偶然の出会い。<br/>
+<br/>
+            たった一冊の<span class="navy bold">ウスイホン</span>が<br/>
+            乙女らの運命を変えていく。<br/>
+            これは、真実の一般参加者へと変貌していく<br/>
+            奇跡の物語。<br/>
+<br/>
+<span class="bold" style="color:#800000">――さぁ、今こそウスイホンを貴方のお側に……――</span><br/>
+<br/>
+<span class="bold" style="color:#800000">これは、<ruby><rb>全世界</rb><rt>アウトランド</rt></ruby>の参加者の心を永遠にとらえた<br/>
+            世紀の巨篇である</span>
+</div>
+</div>

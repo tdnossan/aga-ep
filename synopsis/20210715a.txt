@@ -1,0 +1,29 @@
+<div style="background-color:#2f4f4f;margin:0.8rem auto 0.4rem">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                やあ！　司ですっ！
+            </div>
+<div style="margin-bottom:0.3rem">
+                可愛い成子坂の後輩たちが話していたんだけどね
+            </div>
+<div style="margin-bottom:0.1rem">
+                北国生まれのえりちゃんのご実家、
+            </div>
+<div style="margin-bottom:0.3rem">
+                お風呂が45度の熱めなんだそうだよ
+            </div>
+<div style="margin-bottom:0.3rem">
+                いやぁ、その根性、成子坂だねっ！
+            </div>
+<div style="margin-bottom:0.1rem">
+                さて、次回<span class="bold pink">『アリス・ギア・アイギス』</span>は
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold navy">「蒼天のアルバトロス　―シスターXの罠―」</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                そこんとこ、よろしくっ！
+            </div>
+</div>
+</div>

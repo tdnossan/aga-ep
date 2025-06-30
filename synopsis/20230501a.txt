@@ -1,0 +1,49 @@
+<div style="margin:0 auto 0.4rem">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAAoCAYAAAAi24Q0AAAB+klEQVR4nO3dMWvUYBjA8SchoBXRxXa6RReHE6pTBwcHv4SCu4KCH8ChbuLopOg3cHD2g7h0cLOoVVApCGL1hKL1zrvrvUmeQb3fbwshgeTN8OflTVIN1zci0WZE3M08IQDAv6YWVwAAubICS1wBAPyUEVjiCgBgTN/AElcAAH/oE1jiCgBghq6BJa4AAOZoOtyYorg6f3olHt0YxPGjmS8qAgD8/drWj7gCAFigTQGJKwCAAqUVJK4AAAqVlJC4AgBoYdEi995xtbX9JW492Y7XH74aFwBgKRw23SSuAAA6mBdY4goAoKNZgSWuAAB6aNZWT40fXRRXw0ET96+eiGNHqql9L9/uxeazz/GtORlrq4YGAFg+49NPKXF15+lu7Hz67lECAJbWr8ASVwAASZqdd++L4urCmZW4d2UwM66suQIA+K0ujauH1y1oBwAosfCz6+IKAKCdQwNLXAEAtDf3VzmL4urm41fx5uOeWw4A/7EXD872urhzt7cmtpflfDNnsMQVAEB31XB9YzR+tLgCAOhnoqLEFQBAfwclJa4AAHLs15S4AgDIU4srAIBc1e7zayNxBQCQpxZXAAC5pupKXAEA9DMRWOIKAKC/g8ASVwAAOfYDS1wBAOSpxRUAQK7q8qWLI3EFAJCnFlcAALmmP4IFAEB3EfEDsY0Mu58dILAAAAAASUVORK5CYII=" style="width:95%;margin:0 auto"/>
+<div class="center" style="width:95%;color:#fff;background-color:#2b2f37;margin:0 auto;padding:0.2rem 0 0">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                どうも、<span style="color:#c4997e">兼志谷 シタラ</span>です。
+            </div>
+<div style="margin-bottom:0.1rem">
+                みなさんはプラモ作ってます？
+            </div>
+<div style="margin-bottom:0.1rem">
+                それともぽこじゃか積んでます？
+            </div>
+<div style="margin-bottom:0.1rem">
+                プラモの楽しみはどこまでも<span style="color:#87cefa">自由</span>。
+            </div>
+<div style="margin-bottom:0.1rem">
+                時には自由だからこそ道に迷ったり。
+            </div>
+<div style="margin-bottom:0.1rem">
+                あれもやりたい、これもやってみたい。
+            </div>
+<div style="margin-bottom:0.4rem">
+                けど、<span style="color:#e9967a">心のハードル</span>を越えられない……。
+            </div>
+<div style="margin-bottom:0.1rem">
+                夜空に輝く<span style="color:#eebf15">プラモの星</span>よ、
+            </div>
+<div style="margin-bottom:0.1rem">
+                次なる道を照らしておくれ。
+            </div>
+<div style="margin-bottom:0.1rem">
+                模型界隈に煌めく<span style="color:#eebf15">すぐみ先生</span>、
+            </div>
+<div style="margin-bottom:0.4rem">
+                どうかわたしを導いて。
+            </div>
+<div style="margin-bottom:0.4rem">
+                悩める子羊を、おしゃれプラモの世界へ！
+            </div>
+<div class="bold" style="margin-bottom:0.4rem;font-size:120%">
+<span style="color:#d4ddfa">『ドキュメンタリー モデラーの流儀』</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                救われる創作意欲が、そこにある。
+            </div>
+</div>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAAoCAYAAAAi24Q0AAAEt0lEQVR4nO3dW2hbdQDH8d9p0iYtvYzRS9gax1CZrNaqCGMIjkkVReeTbvjihg5XxHl5F9aBT0PxsiEdzBs+iT6I82EP1clexmA43Q3m6HRrlXatxaxt0qZNj/wjqTlNUtskp+zkfD9QSE/O75/2UOiP//+fE6uja4stAAAAlE0VlxIAAKC8gpuj4YUBQ9WWwtWWa5e4OmCptsa9ThcMWKoLOce3bVsnzk1ocnretdcFAADIZl36YufCEuHMrK3pWfdWDGdTthJJ94rOXMpWfMY5vmVZeuKBBr391Yi+O3vLtdcGAADICO5853rFX4xvzsTU19OefkzJAgAAboqsCSrQGmnvrfSrPPz3nM4OJHRo97r041//nLkNfioAAFBpTLk68nK7PwqWKFkAAMBlmXJ1z/qQgn662D//llBP3xDLhQAAz2ttaS7pV7g5Oub4nvGWFo8nNDk1VfCc7HJl5C1Yb+5o0Uvda/MO8N7xUX3cP573OS/kKFkAAGAlVlquDOtAz+P216djjhMtSzqwK6JntzblDGLb0sEvh7U446Wccf/G2nTJ4t2FAACgWPnKlRH44dDDvQMjSQ0MJx1PnLo8qTsjofRXNlNqHtlcr3wZL+XYkwUAAEpRqFwZlv3jC7a5P9UrR4d0+krc8aS5MehH+9q1dVNdTrBQxks5MZMFAPAo9ky5O14xy4IZUzPz/35Ujikoh/eu130bwo4TTDnZf+wPnb8+nRMulPFSTll7st56rk1PP9S4xKUGAAB+UGq5Mr0iPYOVOXgrntLuw4O6umi5rLEuoM/3R3X3utyBCmW8lBMzWQAAYBmWU67OXUso0Luna+E+WKHqKj3aWa+TF6YUi6cWAuYjdE5enNT2zno11QUcgxXKeCkn9mQBAID/sdxypcwerMUn3RhLas+Hg7oZm3Mcv6O5Rp+9FlVrU+7dHQplvJQTM1kAAI9gz1R5xyvHsmCmXBlVE4ncD182BeVoT7saaqscx0052dc3pJVkvJQTe7IAAPCdcpcrw3r+mW32J69GFa7JLRxm0/iLRwY1nXQWFbNhfKUZL+XETBYAACiyXBkBOxzpvXBjRk8+2KBAleV4sm1NUJ0bwjrx04TmsxYSR2JzWmnGSzmxJwsAAN8rtlwZ6Q97HvprVr+PJPVYV0P6Bp3Zos012thWo/7zE+m7o2cUk5GHcqJkAQDgW6WUK2UKlnlg7nY+NpHSto76nCJyVySk5sagTl12rk8Wk/FSTpQsAAB8p9RyJemg1dG1xTF3s7d7rd7Y0ZL37GP943r/+GjO8WIyXsopa09WfTj/5ngAAHD7+/T7cb37beH/9+UoV5d+OdNrbe9+Ks/iGAAAQGVx492C+cqVecB0DAAAqHirWa5EwQIAAJVutcuVEVx8Z1MAAAC/cKNciRksAADgV26VK1GwAACAH7lZrkTBAgAAfuN2uRIFCwAA+Ek5ypWkJcuVKFgAAMAvVqtcGcGLH2ziDwsAAPhWucuVmMECAAB+5ka5EgULAAD4lVvlShQsAADgR26WK1GwAACA37hdrozgva9f4Q8LAADgPyWVKzGDBQAA4FByuRIFCwAAYEFZypUoWAAAAGllK1eS9A9FcYfRwTN5hwAAAABJRU5ErkJggg==" style="width:95%;margin:0 auto"/>
+</div>

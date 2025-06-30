@@ -1,0 +1,26 @@
+<div style="background-color:#01a07e;margin:0.8rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                比類ない戦闘技術を叩きこまれた<span class="bold" style="color:#01a07e">ひとりの戦士</span>が、
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold" style="color:#b7253c">双子</span>の<span class="bold" style="color:#1382bf">少女</span>らと接することで、
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold yellow">失いかけていた何か</span>を取り戻そうと奮闘する姿を
+            </div>
+<div style="margin-bottom:0.4rem">
+                美しい大自然の映像と供に描くドキュメンタリー。
+            </div>
+<div style="margin-bottom:0.1rem">
+                想像を絶する<span class="bold red"><ruby><rb>試練</rb><rp>＜</rp><rt>サバイバル</rt><rp>＞</rp></ruby></span>の果てに、
+            </div>
+<div style="margin-bottom:0.1rem">
+                戦士は双子を背にして過酷な大自然へと
+            </div>
+<div style="margin-bottom:0.1rem">
+                挑んでいくのであった……。
+            </div>
+</div>
+</div>

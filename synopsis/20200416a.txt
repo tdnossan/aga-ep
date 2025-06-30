@@ -1,0 +1,27 @@
+<div style="background-color:#800080;margin:0.8rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+            いまだかつてない<span class="bold red">危機</span>が<br/>
+<span class="bold navy">＜東京シャード＞</span>に迫る！<br/>
+<br/>
+            秋の味覚をめぐり張り巡らされた<br/>
+<span class="bold pink">邪悪な陰謀！</span><br/>
+<br/>
+            人々を救うため立ち上がった<br/>
+<span class="bold pink">捜査官とスパイ!!</span><br/>
+<br/>
+            そして、二人の前に立ちはだかる<br/>
+<span class="bold pink">忍者とハラペコ少女!!!</span><br/>
+<br/>
+            果たして、アクトレスたちは<br/>
+            ＜東京シャード＞の平和を<br/>
+            守ることができるのか!?<br/>
+<br/>
+<span class="bold green">
+                未亡人捜査官アラーニェ<br/>
+                -松茸より愛をこめて-<br/>
+</span>
+<br/>
+<span class="purple">――松茸はお好きですか……ふふっ</span>
+</div>
+</div>

@@ -1,0 +1,77 @@
+<div style="background-color:#dc143c;margin:0.6rem auto">
+        <div class="bg_white" style="margin:0.2rem 0;padding:0.2rem">
+            <p class="bold center" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+            <div style="margin-bottom:0.1rem">
+                ったく、あ～、イライラする～！
+            </div>
+            <div style="margin-bottom:0.1rem">
+                どうしてキャッシュフローの
+            </div>
+             <div style="margin-bottom:0.1rem">
+                12月期の売上が2倍になってんの!?
+            </div>
+            <div style="margin-bottom:0.1rem">
+                そんなに貰ってないでしょ！
+            </div>
+             <div style="margin-bottom:0.3rem">
+                数字だけボーナス気取りか！
+            </div>
+            <div style="margin-bottom:0.1rem">
+                ふぅ～……とりあえず落ち着いて……
+            </div>
+            <div style="margin-bottom:0.1rem">
+                ……うっわー、ほらやっぱりー
+            </div>
+            <div style="margin-bottom:0.1rem">
+                12月の入金、売掛金が売上金になってるわ～
+            </div>
+            <div style="margin-bottom:0.1rem">
+                誰だよ！　入力ミスったヤツ！　 <span class="bold" style="color:#ff9019">わたし</span>だよ！
+            </div>
+            <div style="margin-bottom:0.3rem">
+                はぁ、ホント毎年おんなじミス！
+            </div>
+            <div style="margin-bottom:0.1rem">
+                ……ま、これで仕訳帳はオッケーかな？
+            </div>
+            <div style="margin-bottom:0.1rem">
+                あとは保険か……あっれ～？　ハガキどこ行った？
+            </div>
+            <div style="margin-bottom:0.1rem">
+                しょーがない、ここは電子で再発行しますかー
+            </div>
+            <div style="margin-bottom:0.3rem">
+                ……あれ？　ログインできないんだゾ☆
+            </div>
+            <div style="margin-bottom:0.1rem">
+                んもー、パスワードどこ～？
+            </div>
+            <div style="margin-bottom:0.1rem">
+                なんで記録されてないのー？
+            </div>
+            <div style="margin-bottom:0.3rem">
+                はい、前は違うパソコンでログインしたからですね！
+            </div>
+            <div style="margin-bottom:0.1rem">
+                ん？　<span class="bold" style="color:#e5ae4a">シャーリー</span>から<span class="bold" style="color:#cd3b00">センチャ</span>？
+            </div>
+             <div style="margin-bottom:0.3rem">
+                なんだろ……明日のお仕事？
+            </div>
+            <div style="margin-bottom:0.1rem">
+                やっ……ば！　
+            </div>
+            <div style="margin-bottom:0.3rem">
+             書類作りにかまけてお仕事のことすっ飛んでたわ！
+            </div>
+            <div style="margin-bottom:0.1rem">
+                明日は素敵～なステージの上から
+            </div>
+            <div style="margin-bottom:0.1rem">
+                桃歌ちゃんスマイルで<span class="bold" style="color:#f3aa1e">大切なメッセージ</span>……
+            </div>
+             <div style="margin-bottom:0.1rem">
+            届けちゃうゾ☆
+            </div>
+        </div>
+    </div>

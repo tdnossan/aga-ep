@@ -1,0 +1,38 @@
+<div style="background-color:#e95388;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                イル＝ド＝フランスのトップアクトレス
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold red">ニコル・フランシスカ</span>は東京シャードへ来訪した
+            </div>
+<div style="margin-bottom:0.3rem">
+                それは最愛の妹である<span class="bold yellow">ノエル</span>を守るため……
+            </div>
+<div style="margin-bottom:0.1rem">
+                しかし、そのためには必要なことがあった
+            </div>
+<div style="margin-bottom:0.1rem">
+                その軍略のためには<span class="bold" style="color:#ff1493">萬場 盟華</span>の助力が
+            </div>
+<div style="margin-bottom:0.3rem">
+                不可欠であり、<span class="bold" style="color:#3f4783">百科 文嘉</span>もまた協力する
+            </div>
+<div style="margin-bottom:0.3rem">
+                “人はその制服通りの人間になる”
+            </div>
+<div style="margin-bottom:0.1rem">
+                ニコルは古の皇帝の言葉の通りに
+            </div>
+<div style="margin-bottom:0.2rem">
+<span class="bold" style="color:#c70067">制服</span>を纏い、<span class="bold" style="color:#c70067">特殊な機器</span>にて武装する
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold" style="color:#e95388;font-size:120%">「人はその制服通りの<ruby><rb>人間</rb><rt>J K</rt></ruby>になる」</span>
+</div>
+<div>
+                運命の姉妹は異邦の地で流転する――
+            </div>
+</div>
+</div>

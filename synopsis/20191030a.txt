@@ -1,0 +1,18 @@
+<div style="background-color:#ff0000;">
+<div class="center bg_skin" style="margin:2px 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+                天高く馬肥える秋　錦秋の<span class="green">ダブルアノーもてぎ</span><br/>
+                忽然と開催が決定された秋の<span class="navy">AEGiS P-1 GP</span><br/>
+<br/>
+                オーガナイザーは<br/>
+                マウンテンウィッチCEO・<span class="pink">萬場 盟華</span><br/>
+                アウトラップに苦しむ<span class="navy">須賀 乙莉</span><br/>
+                エイペックスでアクセルを踏み込む<span class="skyblue">文島 明日翔</span><br/>
+<br/>
+                果たして<span class="red bold">伝説</span>の行方はいかに！？<br/>
+<br/>
+                少女たちは目指した――誰よりも<span class="orange">あたたかく</span>――<br/>
+<br/>
+<span class="red bold">「それっきゃねーやっ！」</span>
+</div>
+</div>

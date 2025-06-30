@@ -1,0 +1,56 @@
+<div style="background-color:#e9518e;margin:0.6rem auto">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+<span class="bold navy">あお</span>は旅行先のキャンプ場で知り合った
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold" style="color:#ff9488">まどか</span>、<span class="bold" style="color:#008d98">暦</span>、<span class="bold" style="color:#ffd321">リツカ</span>とその先輩<span class="bold" style="color:#c02034">エマ</span>を加え
+            </div>
+<div style="margin-bottom:0.1rem">
+                カフェで談笑していた。
+            </div>
+<div style="margin-bottom:0.1rem">
+                まどかたちが将来の夢を探すために始めた
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold" style="color:#794e4c">「課外活動」</span>のゲストに招待されたのだ。
+            </div>
+<div style="margin-bottom:0.1rem">
+                話題は轟雷たち
+            </div>
+<div style="margin-bottom:0.1rem">
+                「フレームアームズ・ガール」のことで持ち切りだ。
+            </div>
+<div style="margin-bottom:0.1rem">
+                轟雷たちが宇宙で戦っている
+            </div>
+<div style="margin-bottom:0.1rem">
+                アクトレスの実験をしていると聞くと、
+            </div>
+<div style="margin-bottom:0.3rem">
+                まどかたちはさらに興味を持つ。
+            </div>
+<div style="margin-bottom:0.3rem">
+                そこへあおの親友、<span class="bold" style="color:#00a968">武希子</span>が慌てて走ってくる。
+            </div>
+<div style="margin-bottom:0.1rem">
+                エミッション検査の結果、
+            </div>
+<div style="margin-bottom:0.1rem">
+                あおと武希子のアクトレス適正が判明。
+            </div>
+<div style="margin-bottom:0.1rem">
+                ファクトリーアドバンスから
+            </div>
+<div style="margin-bottom:0.1rem">
+                フレームアームズ・ガールとマスターの
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold orange">同時アクトレス実験</span>の依頼が来たのだった！
+            </div>
+<div>
+                あおと武希子の<span class="bold" style="color:#794e4c"><ruby><rb>課外</rb><rt>アクトレス</rt></ruby>活動</span>が、いま始まる！
+            </div>
+</div>
+</div>

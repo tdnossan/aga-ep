@@ -1,0 +1,50 @@
+<div style="background-color:#165e83;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                風雲急を告げる。
+            </div>
+<div style="margin-bottom:0.1rem">
+                幕末維新の原動力となった漢たちを輩出した
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold orange">土佐シャードの地</span>へと降り立つ
+            </div>
+<div style="margin-bottom:0.3rem">
+                我龍 絵美、九炉鉄 悠都、大関 小結の三人。
+            </div>
+<div style="margin-bottom:0.1rem">
+                荒れ狂う黒潮は、容赦なく波飛沫を叩きつけ。
+            </div>
+<div style="margin-bottom:0.3rem">
+                乙女らを乗せた船は、木の葉の如く大波に翻弄される。
+            </div>
+<div style="margin-bottom:0.1rem">
+                まさに板子一枚下は<span class="bold red">地獄</span>の世界。
+            </div>
+<div style="margin-bottom:0.1rem">
+                これは志半ばで倒れた志士たちの怨念なのか？
+            </div>
+<div style="margin-bottom:0.1rem">
+                それとも乙女らの志を試す歴史の天啓か？
+            </div>
+<div style="margin-bottom:0.3rem">
+                教えてくれ、土佐シャードの大海原よ。
+            </div>
+<div style="margin-bottom:0.1rem">
+                我龍 絵美の土佐シャードを釣る！
+            </div>
+<div style="margin-bottom:0.3rem">
+                ～つりのひ～
+            </div>
+<div>
+                浪の間に間で乙女らは想う。
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold" style="color:#192f60">『世の人は　<ruby><rb>釣り</rb><rt>これ</rt></ruby>を何とも　言わば言え</span>
+</div>
+<div>
+<span class="bold" style="color:#192f60">我が成す事は　隊長のみぞ知る』</span>と……。
+            </div>
+</div>
+</div>

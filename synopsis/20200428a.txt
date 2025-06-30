@@ -1,0 +1,28 @@
+<div style="background-color:#b7282e;margin:0.8rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                遂にマウンドに戻ってきた<span class="bold yellow">宇佐元 杏奈</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                声を枯らし声援を贈る<span class="bold red">悠都たち</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                そんな乙女たちの姿は、
+            </div>
+<div style="margin-bottom:0.4rem">
+                多くの人々の<span class="bold orange">感動</span>を呼ぶのである。
+            </div>
+<div style="margin-bottom:0.4rem">
+<span class="bold red" style="font-size:120%">プレイボール！</span>
+</div>
+<div style="margin-bottom:0.1rem">
+<span class="bold yellow">「隊長、見ててくださいっ。わたしの全力投球を！</span>
+</div>
+<div style="margin-bottom:0.1rem">
+<span class="bold yellow">見事、幕張オーシャンスタジアムで</span>
+</div>
+<div>
+<span class="bold yellow">投げてみせますっ！！」</span>
+</div>
+</div>

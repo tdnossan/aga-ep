@@ -1,0 +1,29 @@
+<div style="background-color:#eb6101;margin:0.6rem auto">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                亡国の主を慰撫せんと始められた
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold orange">十名の乙女</span>による<span class="bold red">武の競演</span>は
+            </div>
+<div style="margin-bottom:0.3rem">
+                時代を経た今もなお秘密裏に開催されていた
+            </div>
+<div style="margin-bottom:0.1rem">
+                闘いの名は
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold red" style="font-size:150%"><ruby><rb>武運</rb><rp>＜</rp><rt>マーシャル・デスティニー</rt><rp>＞</rp></ruby></span>
+</div>
+<div style="margin-bottom:0.1rem">
+                古より伝わる血脈に選ばれた<span class="bold yellow">州天頃 椎奈</span>もまた
+            </div>
+<div style="margin-bottom:0.3rem">
+                運命に誘われ、闘いに赴く
+            </div>
+<div>
+                強者との死闘の果て、乙女が見たものは――
+            </div>
+</div>
+</div>

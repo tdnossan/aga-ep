@@ -1,0 +1,23 @@
+<div style="background-color:#533f53;margin:0.6rem auto">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                響く球音、やまない声援、輝く汗――
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold" style="color:#533f53">薫子</span>が所属するバレーボールチームに
+            </div>
+<div style="margin-bottom:0.4rem">
+                参加することになった成子坂の面々。
+            </div>
+<div style="margin-bottom:0.1rem">
+                ライバルとの<span class="bold red">激闘</span>を制し、
+            </div>
+<div style="margin-bottom:0.4rem">
+                見事<span class="bold yellow">栄冠</span>を掴みとることができるのか？
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold yellow">今、コートの中で乙女たちが躍動する。</span>
+</div>
+</div>
+</div>

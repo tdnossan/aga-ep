@@ -1,0 +1,38 @@
+<div style="background-color:#2f2969;margin:0.8rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                睦海より緊急連絡
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold" style="color:#2f2969">ZUNTATAさん</span>を知らない
+            </div>
+<div style="margin-bottom:0.1rem">
+                隊長を発見
+            </div>
+<div style="margin-bottom:0.4rem">
+                ターゲットを確保します
+            </div>
+<div style="margin-bottom:0.1rem">
+                えっ、わからないから教えてほしい？
+            </div>
+<div style="margin-bottom:0.1rem">
+                わたしに？
+            </div>
+<div style="margin-bottom:0.4rem">
+                ん……了解
+            </div>
+<div style="margin-bottom:0.1rem">
+                こちら睦海
+            </div>
+<div style="margin-bottom:0.1rem">
+                もたもたしてると夏休み終わっちゃうからね
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold red">コンプリート</span>できるよう、がんばるよ
+            </div>
+<div style="margin-bottom:0.1rem">
+                どうぞ
+            </div>
+</div>
+</div>

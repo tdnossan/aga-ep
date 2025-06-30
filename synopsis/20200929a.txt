@@ -1,0 +1,26 @@
+<div style="background-color:#483d8b;margin:0.8rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                上野芸術大学学園祭
+            </div>
+<div style="margin-bottom:0.1rem">
+                様々な分野のアーティストの卵が集まる大学
+            </div>
+<div style="margin-bottom:0.4rem">
+                その学園祭で<span class="bold orange">エンパイア中野</span>へオファーが届く!?
+            </div>
+<div style="margin-bottom:0.1rem">
+                ステージと屋台、二足の草鞋を履きながら
+            </div>
+<div style="margin-bottom:0.1rem">
+                いつものように、あーだこーだと言い合いながら
+            </div>
+<div style="margin-bottom:0.2rem">
+                彼女たちは<span class="bold red">全力</span>で学園祭に向けてひた走る
+            </div>
+<div style="margin-bottom:0.1rem">
+                今、<ruby><rb>エンパイア中野</rb><rp>＜</rp><rt>彼女たち</rt><rp>＞</rp></ruby>のステージが始まる……
+            </div>
+</div>
+</div>

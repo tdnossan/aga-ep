@@ -1,0 +1,23 @@
+<div style="background-color:#66ccdd;margin:0.4rem auto 0.2rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.2rem">
+<p class="bold" style="font-size:110%;margin-bottom:0.2rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.4rem">
+平和な世界に迫る<span class="navy">邪悪な青い光</span>――
+</div>
+<div style="margin-bottom:0.4rem">
+<span class="bold navy">CODE-BLUE 発令！</span>
+</div>
+<div style="margin-bottom:0">
+3時間目の授業は待ちに待ってた<span class="pink">成子坂当番。</span>
+</div>
+<div style="margin-bottom:0.1rem">
+<span style="color:#eecc33">花音</span>と<span style="color:#66ccdd">詩穂</span>――最強のアイドル<span class="red"><ruby><rb>【f*f】</rb><rt>フォルテシモ</rt></ruby></span>を迎え
+</div>
+<div style="margin-bottom:0.4rem">
+<span class="red">星守</span>と<span class="pink">アクトレス</span>の合同作戦が再び、始まる。
+</div>
+<div>
+届いて、<span class="red">わたし</span><span class="pink">たち</span>の想い――
+</div>
+</div>
+</div>

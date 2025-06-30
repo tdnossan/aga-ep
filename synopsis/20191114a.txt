@@ -1,0 +1,25 @@
+<div style="background-color:#dc143c;margin:0.5rem auto">
+<div class="center" style="background-color:#f5f5f5;margin:0.2rem auto;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+            ドエレー"<ruby><rb>COOOL</rb><rp>＜</rp><rt>クール</rt><rp>＞</rp></ruby>"に、<br/>
+            今日も今日とてボランティアに精を出す<br/>
+<span class="pink">比良坂 夜露</span>と<span class="navy">やまぶどう</span>のみなさん<br/>
+<br/>
+            目指すは"慈善活動の向こう側"……<br/>
+<br/>
+            そんな清々しく、充実した<span class="navy">青ハル</span>を謳歌していた矢先、<br/>
+            突如として博多シャード<span class="purple">最凶</span>とよばれる武闘派集団<br/>
+<span class="red">濠黒館工業高等学校</span>が殴り込みを仕掛けてきた。<br/>
+<br/>
+            等身大の高校生たちが、それぞれの<span class="pink">想い</span>を胸に疾走する<br/>
+            青春群像劇<span class="red">『池袋ブラッディロード』</span><br/>
+<br/>
+<div class="bold left" style="margin-left:0;">
+<div style="width:10%;display:inline-block"></div>
+<div class="left" style="display:inline-block">お前ら全員、"<ruby><rb>不運</rb><rp>＜</rp><rt>ハードラック</rt><rp>＞</rp></ruby>"と</div>
+</div>
+<div class="bold right" style="margin-left:0;">
+<div class="right" style="display:inline-block">"<ruby><rb>踊</rb><rp>＜</rp><rt>ダンス</rt><rp>＞</rp></ruby>"っちまったんだよ……</div>
+<div style="width:10%;display:inline-block"></div>
+</div>
+</div>

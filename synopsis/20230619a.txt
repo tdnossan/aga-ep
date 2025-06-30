@@ -1,0 +1,20 @@
+<div style="background-color:#7b8d42;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.3rem">
+                大きな<span class="bold pink">胸の内</span>に　しみこんだ<span class="bold navy">日々の疲れ</span>
+</div>
+<div style="margin-bottom:0.3rem">
+<span class="bold green">癒し</span>を求め　少女たちは旅に出る
+            </div>
+<div style="margin-bottom:0.3rem">
+                暴走半島へ、さあ出発だ、牧場に陽が昇る
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold purple">『酪農天国　チチをたずねて暴走半島』</span>
+</div>
+<div>
+                おたのしみにね
+            </div>
+</div>
+</div>

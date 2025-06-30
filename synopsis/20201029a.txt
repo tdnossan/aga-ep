@@ -1,0 +1,26 @@
+<div style="background-color:#bb5535;margin:0.8rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0">
+                今回、皆様方にお付き合いいただきますは
+            </div>
+<div style="margin-bottom:0.4rem">
+                御徒町アクトレス協会に属します<span class="bold yellow">「<ruby><rb>天狐</rb><rp>＜</rp><rt>てんこ</rt><rp>＞</rp></ruby> <ruby><rb>天</rb><rp>＜</rp><rt>そら</rt><rp>＞</rp></ruby>」</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                その少女が巡り合った偶然で素敵な出会いと
+            </div>
+<div style="margin-bottom:0.1rem">
+                彼女たちが<span class="bold orange">伝統</span>と<span class="bold orange">文化</span>を守るため、
+            </div>
+<div style="margin-bottom:0.1rem">
+                手を取り合い<span class="bold yellow">お祭り</span>を盛り上げんとする
+            </div>
+<div style="margin-bottom:0.4rem">
+                そんな粋なお話でございます。
+            </div>
+<div style="margin-bottom:0.1rem">
+                此度も一席お付き合いいただければ……。
+            </div>
+</div>
+</div>

@@ -1,0 +1,34 @@
+<div style="background-color:#89c997;margin:0.8rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                遥か彼方から成子坂に届いたSOS信号。
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold" style="color:#f8ba7d">シルフィーII</span>の孤独な叫びを聞いたなら、
+            </div>
+<div style="margin-bottom:0.4rem">
+                いざゆけ我らの<span class="bold" style="color:#c4997e">兼志谷 シタラ</span>。
+            </div>
+<div style="margin-bottom:0.1rem">
+                猫耳少女を閉じ込める<span class="bold red">謎の異世界テラオルタ</span>。
+            </div>
+<div style="margin-bottom:0.4rem">
+                未知への扉はそこにある。
+            </div>
+<div style="margin-bottom:0">
+                テラオルタの謎を解き明かし、<span class="bold red">巨大な敵</span>を倒すため、
+            </div>
+<div style="margin-bottom:0.4rem">
+                知恵と勇気を<ruby><rb>再物質化</rb><rp>＜</rp><rt>ダウンロード</rt><rp>＞</rp></ruby>せよ。
+            </div>
+<div style="margin-bottom:0.1rem">
+                シルフィーIIとシタラ……
+            </div>
+<div style="margin-bottom:0.1rem">
+                たったふたりの小隊が今、出撃する。
+            </div>
+<div style="margin-bottom:0.1rem">
+                コネクトコードは、<span class="bold" style="color:#999999">デスクトップアーミー！</span>
+</div>
+</div>

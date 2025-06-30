@@ -1,0 +1,40 @@
+<div style="background-color:#b33e5c;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+<span class="bold" style="color:#ee6998">ひかり</span>が密かに計画していた
+            </div>
+<div style="margin-bottom:0.1rem">
+                サプライズバレンタインデーは
+            </div>
+<div style="margin-bottom:0.3rem">
+                慎ましくも幸福に包まれるはずであった
+            </div>
+<div style="margin-bottom:0.3rem">
+                だがしかし、何が、どうしてしまったのか
+            </div>
+<div style="margin-bottom:0.1rem">
+                現実を受け入れられないひかりをよそに
+            </div>
+<div style="margin-bottom:0.1rem">
+                街中に溢れた異形の<span class="bold red">チョコレートゾンビ</span>たちは
+            </div>
+<div style="margin-bottom:0.3rem">
+                逃げ惑う群衆をひとり、またひとりと襲っていく
+            </div>
+<div style="margin-bottom:0.1rem">
+                目を覆いたくなる阿鼻叫喚に
+            </div>
+<div style="margin-bottom:0.3rem">
+                御徒町は崩壊寸前の大パニック
+            </div>
+<div style="margin-bottom:0.1rem">
+                果たしてひかり、絵美、天の3人は
+            </div>
+<div style="margin-bottom:0.3rem">
+                この<span class="bold" style="color:#b33e5c">恐怖の坩堝</span>から生還することができるのか！
+            </div>
+<div>
+<span class="bold">coming soon……</span>
+</div>
+</div>

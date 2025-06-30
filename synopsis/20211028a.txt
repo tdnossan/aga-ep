@@ -1,0 +1,44 @@
+<div style="background-color:#946c45;margin:0.8rem auto 0.4rem">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                青い空、眩しい緑、雄大なアルプスの麓
+            </div>
+<div style="margin-bottom:0.1rem">
+                酪農に精を出す<span class="bold" style="color:#afafb0">アデライーデ</span>のもとに
+            </div>
+<div style="margin-bottom:0.4rem">
+                1本の電話が鳴り響く……。
+            </div>
+<div style="margin-bottom:0.1rem">
+                一方、成子坂では
+            </div>
+<div style="margin-bottom:0.1rem">
+                日々の仕事に打ちひしがれる<span class="bold" style="color:#453372">芹菜</span>と
+            </div>
+<div style="margin-bottom:0.4rem">
+                食堂を預かる<span class="bold" style="color:#c07133">小結</span>が苦悩していた……。
+            </div>
+<div style="margin-bottom:0.1rem">
+                それぞれの事情を抱えながらも
+            </div>
+<div style="margin-bottom:0.4rem">
+                運命に導かれるように3人はスイスの地で出逢う。
+            </div>
+<div style="margin-bottom:0.1rem">
+                今、大自然を前に、前人未踏の難問に挑む乙女らの
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold" style="color:#0068b7">Yo del La ee dee</span> が、
+            </div>
+<div style="margin-bottom:0.4rem">
+                アルプスの山々に木霊する――。
+            </div>
+<div style="margin-bottom:0.1rem">
+                次回『牛と山羊と父と』
+            </div>
+<div>
+                お見逃しなく
+            </div>
+</div>
+</div>

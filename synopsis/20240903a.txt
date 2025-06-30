@@ -1,0 +1,44 @@
+<div style="background-color:#c71585;margin:0.6rem auto">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                アウトランドカップ・ヨーロッパ予選開幕！
+            </div>
+<div style="margin-bottom:0.1rem">
+                シャード代表チームがグループリーグで
+            </div>
+<div style="margin-bottom:0.3rem">
+                大会出場権を賭けた過酷なリーグ戦がいま始まる！
+            </div>
+<div style="margin-bottom:0.1rem">
+                4年に1度の祭典に<span class="bold" style="#c8102e">エマ</span>は大興奮！
+            </div>
+<div style="margin-bottom:0.1rem">
+                イングランドシャード代表を
+            </div>
+<div style="margin-bottom:0.1rem">
+                応援しようとはりきっているが
+            </div>
+<div style="margin-bottom:0.3rem">
+                同僚のハリエットもリリもまるで興味がない。
+            </div>
+<div style="margin-bottom:0.1rem">
+                完全オフを決め込み、
+            </div>
+<div style="margin-bottom:0.1rem">
+                ひとりスタジアムで熱狂的に応援するエマだが
+            </div>
+<div style="margin-bottom:0.3rem">
+                そこへ<span class="bold red">緊急の呼び出し</span>がかかる。
+            </div>
+<div style="margin-bottom:0.1rem">
+                試合がヴァイス信奉集団SINのテロに狙われている！
+            </div>
+<div style="margin-bottom:0.1rem">
+                それを止められるのはエマしかいない！
+            </div>
+<div style="margin-bottom:0.1rem">
+                エマの<span class="bold orange">天才的な頭脳</span>は、この難問を解決できるのか？
+            </div>
+</div>
+</div>

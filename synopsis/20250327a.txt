@@ -1,0 +1,47 @@
+<div style="background-color:#ff5d61;margin:0.6rem auto 0.4rem">
+<div class="bg_white" style="margin:0.2rem 0;padding:0.2rem 0.2rem 0.4rem">
+<p class="bold center" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.3rem">
+                謹啓
+            </div>
+<div style="margin-bottom:0.1rem">
+                桜花の候、皆様にはますますご盛栄のこと、
+            </div>
+<div style="margin-bottom:0.1rem">
+                お慶び申し上げます。
+            </div>
+<div style="margin-bottom:0.1rem">
+                日頃より本学の活動につきまして、
+            </div>
+<div style="margin-bottom:0.3rem">
+                多大なご協力を頂き、厚くお礼申し上げます。
+            </div>
+<div style="margin-bottom:0.1rem">
+                さて例年通り、<span class="bold red">神樹祭</span>の開催が決定いたしました。
+            </div>
+<div style="margin-bottom:0.1rem">
+                元は星守による<span class="bold pink">神樹さま</span>に歌と踊りを捧げる神事が
+            </div>
+<div style="margin-bottom:0.1rem">
+                時代を経て現在の学園祭となり、
+            </div>
+<div style="margin-bottom:0.3rem">
+                人々の笑顔があふれる催しとなりました。
+            </div>
+<div style="margin-bottom:0.1rem">
+                生徒による模擬店やステージなどが
+            </div>
+<div style="margin-bottom:0.1rem">
+                開かれる予定となっております。
+            </div>
+<div style="margin-bottom:0.3rem">
+                ご来臨の栄を賜りたく、謹んでご案内申し上げます。
+            </div>
+<div style="margin-bottom:0.1rem">
+                吉日
+            </div>
+<div>
+                神樹ヶ峰女学園　理事長　神峰 牡丹
+            </div>
+</div>
+</div>

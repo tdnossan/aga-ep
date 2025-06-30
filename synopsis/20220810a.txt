@@ -1,0 +1,34 @@
+<div style="background-color:#e95388;margin:0.8rem auto 0.4rem">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                大ヒット御礼！！ 期間限定劇場公開中の
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold" style="color:#0068b7">『ハーモナイザー メリスマ』</span>が熱い！
+            </div>
+<div style="margin-bottom:0.1rem">
+                世界中で響き合うファンの声援に応えて送る、
+            </div>
+<div style="margin-bottom:0.3rem">
+                スペシャルメイキング特番。
+            </div>
+<div style="margin-bottom:0.1rem">
+                ユイ、ミラ、アキノ、そしてAina――
+            </div>
+<div style="margin-bottom:0.1rem">
+                豪華キャストインタビューをはじめ、
+            </div>
+<div style="margin-bottom:0.1rem">
+                撮影風景や<span class="bold orange">“あのカレー”</span>のヒミツなど、
+            </div>
+<div style="margin-bottom:0.1rem">
+                ここでしか見られない制作秘話を交え
+            </div>
+<div style="margin-bottom:0.3rem">
+                『メリスマ』の魅力に迫る！
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold red">Get Bravity！！ キミと今、キセキのConnect！！</span>
+</div>
+</div>

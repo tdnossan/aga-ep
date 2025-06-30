@@ -1,0 +1,41 @@
+<div style="background-color:#24140e;margin:0.6rem auto">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                東京シャード周辺宙域に出現した謎のヴァイス。
+            </div>
+<div style="margin-bottom:0.1rem">
+                その<span class="bold red">時空を越える能力</span>によって
+            </div>
+<div style="margin-bottom:0.1rem">
+                ルルーシュとC.C.とカレンの３人は
+            </div>
+<div style="margin-bottom:0.3rem">
+                東京シャードに転移させられてしまった。
+            </div>
+<div style="margin-bottom:0.1rem">
+                C.C.とカレンは夜露たちと出会い
+            </div>
+<div style="margin-bottom:0.1rem">
+                アクトレスとなってヴァイスと戦い、
+            </div>
+<div style="margin-bottom:0.1rem">
+                ルルーシュは<span class="bold" style="color:#9cbb1c">ギアス</span>の力を駆使して
+            </div>
+<div style="margin-bottom:0.3rem">
+                転移者を狙うテロリストと対決する。
+            </div>
+<div style="margin-bottom:0.1rem">
+                謎のヴァイスの<span class="bold" style="color:#24140e">真の目的</span>は？
+            </div>
+<div style="margin-bottom:0.1rem">
+                ヴァイスの<span class="bold" style="color:#9fa09e">神託</span>とは？
+            </div>
+<div style="margin-bottom:0.1rem">
+                元の世界へ戻るため
+            </div>
+<div>
+                ルルーシュたちは世界の危機に立ち向かう。
+            </div>
+</div>
+</div>

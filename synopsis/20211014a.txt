@@ -1,0 +1,29 @@
+<div style="background-color:#000080;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                藍澄中学校では進路希望調査票と
+            </div>
+<div style="margin-bottom:0.3rem">
+                職場体験の時期が差し迫っていた。
+            </div>
+<div style="margin-bottom:0.1rem">
+                時を同じくして将来に夢を抱き
+            </div>
+<div style="margin-bottom:0.3rem">
+                水族館に実習生として訪れる<span class="bold" style="color:#4ebbba">大学生</span>の姿が……。
+            </div>
+<div style="margin-bottom:0.3rem">
+                水族館で偶然が折り重なり紡ぐ出会い。
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold skyblue">『わたし、ここでのこと、ずっと忘れないよ！！』</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                これは<span class="bold" style="color:#4682b4">シロワニ</span>から始まる
+            </div>
+<div style="margin-bottom:0.1rem">
+                海洋生物の未来を担う少女たちの前日譚――。
+            </div>
+</div>
+</div>

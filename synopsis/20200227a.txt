@@ -1,0 +1,31 @@
+<div style="background-color:#FB9A85;margin:0.8rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                今回は、梅の香りに誘われて、
+            </div>
+<div style="margin-bottom:0.1rem">
+                初春の東京シャード<span class="orange">「新宿」</span>に出没。
+            </div>
+<div style="margin-bottom:0.1rem">
+                この街を長く見守り続けてきた
+            </div>
+<div style="margin-bottom:0.1rem">
+                成子天神社の歴史にふれながら
+            </div>
+<div style="margin-bottom:0.1rem">
+                オシャレなキッチンカーやフラワーショップを
+            </div>
+<div style="margin-bottom:0.4rem">
+                アクトレスたちが巡ります。
+            </div>
+<div style="margin-bottom:0.4rem">
+                さてさて、どんな旅になるのでしょうか。
+            </div>
+<div class="bold orange" style="margin-bottom:0.4rem;font-size:120%">
+                『すばらしき世界の旅』<br/>
+                ～あぁ、新宿慕情編～
+            </div>
+                どうぞお見逃しなく。
+        </div>
+</div>

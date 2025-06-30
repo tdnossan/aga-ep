@@ -1,0 +1,29 @@
+<div style="background-color:#c1ab05;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                カッセルシャードから
+            </div>
+<div style="margin-bottom:0.4rem">
+                成子坂製作所整備部へとやってきたリタ。
+            </div>
+<div style="margin-bottom:0.1rem">
+                同郷のよしみでビアホールバイアーンのマスター・
+            </div>
+<div style="margin-bottom:0.1rem">
+                オリバーから<span class="bold orange">「不動通り商店街」</span>のお祭りを
+            </div>
+<div style="margin-bottom:0.4rem">
+                盛り上げて欲しいと依頼される。
+            </div>
+<div style="margin-bottom:0.1rem">
+                ゆみとバージニアの力を借りたリタであったが
+            </div>
+<div style="margin-bottom:0.1rem">
+                気づけば不動通り商店街には
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold pink">＜ウェイトレス＞</span>となった大勢のアクトレスが！
+            </div>
+</div>
+</div>

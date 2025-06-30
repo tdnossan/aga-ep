@@ -1,0 +1,29 @@
+<div style="background-color:#ff5d61;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.3rem">
+                想いが<span class="bold green">神樹</span>に届くとき、星守たちが帰って来る。
+            </div>
+<div style="margin-bottom:0.1rem">
+                謎の失踪をとげた<span class="bold" style="color:#c35061">粒咲 あんこ</span>の行方を追って
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold red">星守</span>と<span class="bold pink">アクトレス</span>が向かうのは、<span class="bold yellow">南海のアイランド！</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                太陽きらめく波打ち際に、<span class="bold red">怪しい仮面</span>が躍るとき
+            </div>
+<div style="margin-bottom:0.3rem">
+                楽園は恐怖の戦場へと変わるのか!?
+            </div>
+<div style="margin-bottom:0.1rem">
+                さあ行こう！
+            </div>
+<div style="margin-bottom:0.3rem">
+                この春、あの子と成子坂とアイランド！
+            </div>
+<div>
+<span class="bold red">キケンなゲーム</span>が今はじまる――
+            </div>
+</div>
+</div>

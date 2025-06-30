@@ -1,0 +1,35 @@
+<div style="background-color:#ff5d61;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+<span class="bold navy">ブルーコア</span>を生み出す元凶・<span class="bold navy">ファラエナ</span>を倒した
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold red">星守</span>と<span class="bold pink">アクトレス。</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                だが、束の間の平和を破り、
+            </div>
+<div style="margin-bottom:0.3rem">
+                さらなる<span class="bold red">強敵</span>が<span class="bold green">神樹ヶ峰女学園</span>に迫っていた。
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold navy">CODE-BLUE 再び発令！</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                特別交換留学生として<span class="bold green">星守クラス</span>に編入し、
+            </div>
+<div style="margin-bottom:0.3rem">
+                再び合同作戦を開始する<span class="bold pink">夜露</span>たち。
+            </div>
+<div style="margin-bottom:0.1rem">
+                友との絆を胸に抱き、<span class="bold green">神樹</span>の見守る<ruby><rb>天</rb><rt>そら</rt></ruby>駆けて、
+            </div>
+<div style="margin-bottom:0.3rem">
+                倒せ妖しく<span class="bold navy">青い侵略者！</span>
+</div>
+<div>
+                届いて、<span class="bold red">わたし</span><span class="bold pink">たち</span>の想い――
+            </div>
+</div>
+</div>

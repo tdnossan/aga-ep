@@ -1,0 +1,38 @@
+<div style="background-color:#9b8027;margin:0.8rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                AEGiS主催のイベント
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold navy">『第1回全国スプラッシュギア大会・高校の部』</span>に
+            </div>
+<div style="margin-bottom:0.1rem">
+                参加すべく桃蔭学園総合高等学校にて
+            </div>
+<div style="margin-bottom:0.4rem">
+                選考会が行われた。
+            </div>
+<div style="margin-bottom:0.1rem">
+                普通科と芸能科の激しい攻防の末、
+            </div>
+<div style="margin-bottom:0.1rem">
+                普通科から<span class="bold" style="color:#c4997e">兼志谷 シタラ</span>、<span class="bold" style="color:#eea905">バージニア・グリンベレー</span>、
+            </div>
+<div style="margin-bottom:0.1rem">
+                芸能科から<span class="bold" style="color:#534849">村尾 未羅</span>、<span class="bold" style="color:#2bb95b">君影 唯</span>ら
+            </div>
+<div style="margin-bottom:0.4rem">
+                4名が校内代表に選ばれる。
+            </div>
+<div style="margin-bottom:0.1rem">
+                気炎万丈のやる気を見せる4名の前に立ちはだかる
+            </div>
+<div style="margin-bottom:0.1rem">
+                東京シャード地区ブロック大会初戦の相手は
+            </div>
+<div style="margin-bottom:0">
+<span class="bold" style="color:#f46190">比良坂 夜露</span>らが通う<span class="bold red">芦原高等学校</span>だった……
+            </div>
+</div>
+</div>

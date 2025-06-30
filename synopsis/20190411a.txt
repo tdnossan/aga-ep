@@ -1,0 +1,22 @@
+<div style="margin:0.5rem 0.1rem">
+<p class="event-date" style="font-size:100%">＜　あらすじ　＞</p>
+<div class="bg_skin center" style="padding:0.4rem 0.2rem">
+<span class="red">第１回アリス・ギア・アイギス<br/>
+            衣装ギアイラストコンテスト受賞<br/></span>
+<br/>
+            発表を終えた時間、<span class="purple">舞</span>の言葉<br/>
+<span class="navy">シタラ</span>は、その中で、さらに覚醒かと心踊った<br/>
+<span class="yellow">ジニー</span>は、ちょっと、心配になった<br/>
+<br/>
+<span class="purple">
+<ruby>宇宙<rp>＜</rp><rt>そら</rt><rp>＞</rp>
+</ruby>
+</span>を翔ける<br/>
+<span class="yellow"><ruby>３つの星<rp>＜</rp><rt>トライステラ</rt><rp>＞</rp></ruby></span>に新しい絆が生まれる<br/>
+<br/>
+<br/>
+            次回「イラストコンテスト」<br/>
+<br/>
+            見てください！
+        </div>
+</div>

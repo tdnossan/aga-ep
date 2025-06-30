@@ -1,0 +1,56 @@
+<div style="background-color:#003f8e;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                幾光年も先の瞬きの中で
+            </div>
+<div style="margin-bottom:0.1rem">
+                まだ誰にも発見されていない
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold yellow">星の輝き</span>をみつけたあの日
+            </div>
+<div style="margin-bottom:0.1rem">
+                いつも側にいたいから
+            </div>
+<div style="margin-bottom:0.1rem">
+                いつも側にいて欲しいから
+            </div>
+<div style="margin-bottom:0.1rem">
+                微笑むときも
+            </div>
+<div style="margin-bottom:0.1rem">
+                怒ったときも
+            </div>
+<div style="margin-bottom:0.1rem">
+                共に涙したときも
+            </div>
+<div style="margin-bottom:0.1rem">
+                すべては今日という日のために
+            </div>
+<div style="margin-bottom:0.3rem">
+                神様がくれた宝物
+            </div>
+<div style="margin-bottom:0.1rem">
+<ruby><rb>隊長</rb><rt>あなた</rt></ruby>と出逢った奇跡……
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold red">想い</span>を秘めたその姿は今、祝福を受け
+            </div>
+<div style="margin-bottom:0.3rem">
+                特別なふたりだけの時間を刻み始める
+            </div>
+<div style="margin-bottom:0.3rem">
+                いつか二人だけの答えをみつけだすために
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold navy">『6月の<ruby><rb>Mariage</rb><rt>マリアージュ</rt></ruby>』</span>開催決定！
+            </div>
+<div style="margin-bottom:0.1rem">
+                Grow Old Together……
+            </div>
+<div>
+                わたし、幸せになります
+            </div>
+</div>
+</div>

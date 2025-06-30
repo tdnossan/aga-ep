@@ -1,0 +1,41 @@
+<div style="background-color:#eb6101;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                その日、三人が同じ会場に入った。
+            </div>
+<div style="margin-bottom:0.3rem">
+                まずひとりはお祭り好きでお節介の達人・<span class="bold" style="color:#5193ff">天狐 天</span>。
+            </div>
+<div style="margin-bottom:0.1rem">
+                ふたりめは<span class="bold" style="color:#1a2624">我龍 絵美</span>。
+            </div>
+<div style="margin-bottom:0.3rem">
+                土佐出身の身だが、訳あって東京にやってきた者。
+            </div>
+<div style="margin-bottom:0.1rem">
+                そして三人目は、<span class="bold" style="color:#ee6998">宮南 ひかり</span>。
+            </div>
+<div style="margin-bottom:0.1rem">
+                彼女はときにタガがはずれて、
+            </div>
+<div style="margin-bottom:0.2rem">
+                周囲の人を振り回していた。
+            </div>
+<div style="margin-bottom:0.1rem">
+<ruby><rb>酉の市</rb><rt>とりのいち</rt></ruby>――
+            </div>
+<div style="margin-bottom:0.1rem">
+                同じ日にこの町にやってきた、
+            </div>
+<div style="margin-bottom:0.3rem">
+                訳ありの三者の運命の糸はやがて絡み合う。
+            </div>
+<div style="margin-bottom:0">
+                天、そして絵美とひかりが挑む酉の市。
+            </div>
+<div style="margin-bottom:0.1rem">
+                問答無用の<span class="bold red"><ruby><rb>戦い</rb><rt>まつり</rt></ruby></span>が幕を開けようとしていた……！
+            </div>
+</div>
+</div>

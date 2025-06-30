@@ -1,0 +1,53 @@
+<div style="background-color:#c9171e;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.3rem">
+<span class="bold red">現代社会</span>に生きる人々は疲れている――
+            </div>
+<div style="margin-bottom:0.1rem">
+                通勤通学、日々の業務、
+            </div>
+<div style="margin-bottom:0.1rem">
+                数多のコミュニケーション……
+            </div>
+<div style="margin-bottom:0.1rem">
+                それらは人々の心身を静かに、
+            </div>
+<div style="margin-bottom:0.3rem">
+                しかし確実に蝕んでいく。
+            </div>
+<div style="margin-bottom:0.1rem">
+                はさみメンテナンスを双肩に背負う
+            </div>
+<div style="margin-bottom:0.1rem">
+                波佐見 利佳もまた
+            </div>
+<div style="margin-bottom:0.1rem">
+                年末進行という繁忙期のさなか、
+            </div>
+<div style="margin-bottom:0.3rem">
+                心のどこかで<span class="bold orange">「癒し」</span>を求めていた。
+            </div>
+<div style="margin-bottom:0.1rem">
+                そんなある日、利佳は新谷 芹菜、金潟 すぐみが
+            </div>
+<div style="margin-bottom:0.3rem">
+                それぞれ手にしたものから、大きな<span class="bold yellow">幸運</span>を手にする
+            </div>
+<div style="margin-bottom:0.1rem">
+                向かう先は<span class="bold" style="color:#aa4f37">信州小諸の菱野温泉</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                3人を導くは単純炭酸鉄泉の香りか、
+            </div>
+<div style="margin-bottom:0.3rem">
+                お薬師さんの導きか――
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold" style="color:#c9171e;font-size:120%">「湯けむり温泉紀行 ～紅葉の秘湯へ～」</span>
+</div>
+<div>
+                心と体を癒す物語
+            </div>
+</div>
+</div>

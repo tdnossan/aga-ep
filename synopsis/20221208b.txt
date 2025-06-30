@@ -1,0 +1,37 @@
+<div style="background-color:#b98e2f;margin:0.8rem auto 0.6rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                サンタクロースに手紙を書いたのは5歳のときでした。
+            </div>
+<div style="margin-bottom:0.3rem">
+                「さんたさん」の「た」の字がうまく書けなくて……
+            </div>
+<div style="margin-bottom:0.1rem">
+                寝る前に壁に貼った手紙は、翌朝消えていて
+            </div>
+<div style="margin-bottom:0.3rem">
+                代わりに<span class="bold orange">プレゼントの箱</span>が置いてありました。
+            </div>
+<div style="margin-bottom:0.1rem">
+                プレゼントが何だったのかは、覚えていません。
+            </div>
+<div style="margin-bottom:0.1rem">
+                でも、<span class="bold red">サンタクロース</span>が手紙をもらってくれたことが、
+            </div>
+<div style="margin-bottom:0.3rem">
+                ほんとうにいるんだってわかったことが嬉しくて。
+            </div>
+<div style="margin-bottom:0.1rem">
+                ……なんて話をしたかったけれど
+            </div>
+<div style="margin-bottom:0.1rem">
+                忙しいあなたにわがままは言えないものね。
+            </div>
+<div style="margin-bottom:0.3rem">
+                せめて、心だけでも私とお出かけしませんか？
+            </div>
+<div style="margin-bottom:0">
+<span class="bold" style="color:#1d9bf0">＃クリスマスデートなうに使っていいよ</span>
+</div>
+</div>

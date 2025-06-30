@@ -1,0 +1,43 @@
+<div style="background-color:#a59564;margin:0.8rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0">
+                はじめまして
+            </div>
+<div style="margin-bottom:0.4rem">
+<span class="bold navy"><ruby><rb>在賀</rb><rt>あるが</rt></ruby> <ruby><rb>奈々</rb><rt>なな</rt></ruby></span>です！
+            </div>
+<div style="margin-bottom:0.1rem">
+                わたしのことで恐縮ですが
+            </div>
+<div style="margin-bottom:0.1rem">
+                紆余曲折ありまして
+            </div>
+<div style="margin-bottom:0.1rem">
+                この度、<span class="bold orange">神南サポート</span>で
+            </div>
+<div style="margin-bottom:0.4rem">
+                派遣のアクトレスはじめちゃいましたっ！
+            </div>
+<div style="margin-bottom:0.1rem">
+                一方そのころ
+            </div>
+<div style="margin-bottom:0.1rem">
+                雪深い北の夜空をみあげ犬たちは
+            </div>
+<div style="margin-bottom:0.1rem">
+                静かに、だが確かに
+            </div>
+<div style="margin-bottom:0.4rem">
+<span class="bold yellow">瞬く宝珠</span>を見つめていた……
+            </div>
+<div style="margin-bottom:0.1rem">
+                次回、『神南在賀奈々派遣伝』
+            </div>
+<div style="margin-bottom:0">
+                真実はひとつとは限らない
+            </div>
+<div style="margin-bottom:0">
+<span class="bold red"><ruby><rb>占星術</rb><rt>タロット</rt></ruby>よ、導きたまえ。</span>
+</div>
+</div>

@@ -1,0 +1,71 @@
+<div style="background-color:#bb5535;margin:0.6rem auto">
+<div class="bg_white" style="margin:0.2rem 0;padding:0.2rem">
+<p class="bold center" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                みなさん、おまたせしました！
+            </div>
+<div style="margin-bottom:0.1rem">
+                いよいよ明日、杏奈のぴょんぴょんマート、
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold" style="color:#bb5535">秋の新商品</span>をご用意しての開店です！
+            </div>
+<div style="margin-bottom:0.1rem">
+                今回ご用意したのは、
+            </div>
+<div style="margin-bottom:0.1rem">
+                あの成子坂製作所さんとコラボした
+            </div>
+<div style="margin-bottom:0.1rem">
+                おいしいおいしいおいしい、あたたか～～～い一品！
+            </div>
+<div style="margin-bottom:0.1rem">
+                成子坂さんの胃袋を支える、
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold" style="color:#c07133">大関 小結さん渾身の一品</span>が炸裂します！
+            </div>
+<div style="margin-bottom:0.1rem">
+                そしてそして、美味しいものを満載してやってくる、
+            </div>
+<div style="margin-bottom:0.1rem">
+                食欲の秋を戦うための<span class="bold" style="color:#223a70">もう一つの商品</span>。
+            </div>
+<div style="margin-bottom:0.1rem">
+                これがあれば、やむを得ないカロリーも、
+            </div>
+<div style="margin-bottom:0.1rem">
+                認めたくない体重も無かったことにっ！
+            </div>
+<div style="margin-bottom:0.3rem">
+                気になる方は、絶対に見逃さないでくださいね！
+            </div>
+<div style="margin-bottom:0.1rem">
+                そしてなんと！
+            </div>
+<div style="margin-bottom:0.1rem">
+                今回の撮影は、スペシャルなスタジオで、
+            </div>
+<div style="margin-bottom:0.1rem">
+                みなさんがびっくりする<span class="bold" style="color:#bb8d5f">ゲスト</span>を
+            </div>
+<div style="margin-bottom:0.1rem">
+                お迎えしてお送りします。
+            </div>
+<div style="margin-bottom:0.1rem">
+                視聴予約、録画予約、ご親戚からご近所さまへの
+            </div>
+<div style="margin-bottom:0.1rem">
+                口コミ、ネットでのつぶやき等大歓迎です。
+            </div>
+<div style="margin-bottom:0.3rem">
+                冷凍庫とお財布に余裕を作っておいてくださいね！
+            </div>
+<div style="margin-bottom:0.1rem">
+                それでは、杏奈のぴょんぴょんマート
+            </div>
+<div style="margin-bottom:0.1rem">
+                明日の放送に、ご期待くださいっ！
+            </div>
+</div>
+</div>

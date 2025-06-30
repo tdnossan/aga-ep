@@ -1,0 +1,56 @@
+<div style="background-color:#192f60;margin:0.8rem auto 0.4rem">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                はさみメンテナンスを訪れた隊長は、
+            </div>
+<div style="margin-bottom:0.1rem">
+                打ち合わせの帰途、<span class="bold red">不審な集団</span>に
+            </div>
+<div style="margin-bottom:0.4rem">
+                宇宙港近くの路上で拉致されそうになる。
+            </div>
+<div>
+                その危機を新規登録された
+            </div>
+<div>
+                予備アクトレス<span class="bold" style="color:#755191"><ruby><rb>波佐見 利佳</rb><rt>はさみ りか</rt></ruby></span>に助けられ、
+            </div>
+<div style="margin-bottom:0.4rem">
+                ふたりは<ruby><rb>地下第2層</rb><rt>アンダーシャード</rt></ruby>の危険地帯を逃走する！
+            </div>
+<div>
+<ruby><rb>印不獲琉埜</rb><rt>インフェルノ</rt></ruby>、ラボラトリャ・モスクワ、<ruby><rb>黑幇</rb><rt>ヘイパン</rt></ruby>
+</div>
+<div style="margin-bottom:0.4rem">
+<ruby><rb>国際的</rb><rt>アウトランド</rt></ruby>マフィアの容赦ない暴力がふたりを襲う！
+            </div>
+<div style="margin-bottom:0.1rem">
+                ふたりが狙われ続ける<span class="bold" style="color:#2f4f4f">理由</span>はなにか？
+            </div>
+<div style="margin-bottom:0.4rem">
+                その背後に渦巻く<span class="bold red">陰謀</span>とは？
+            </div>
+<div style="margin-bottom:0.1rem">
+                謎を秘めた暗号機シュトゥルマンスキーを巡って
+            </div>
+<div style="margin-bottom:0.1rem">
+                裏社会の利権と秩序が入り乱れ、
+            </div>
+<div style="margin-bottom:0.4rem">
+                犯罪と暴力、密命と裏切りが繰り広げられる。
+            </div>
+<div style="margin-bottom:0.1rem">
+                そう、ここは――
+            </div>
+<div style="margin-bottom:0.4rem">
+<span class="bold" style="font-size:130%">『TOKYO UNDERSHARD』</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                逃亡の果てに隊長と利佳は、
+            </div>
+<div style="margin-bottom:0.1rem">
+                なにを失い、なにを得るのか。
+            </div>
+</div>
+</div>

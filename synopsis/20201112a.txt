@@ -1,0 +1,24 @@
+<div style="background-color:#6c2463;margin:0.8rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                真っ白なボール、キラめく汗<br/>
+                涙の数だけ繋がるトス……<br/>
+<br/>
+                そう信じ、再びコートへ戻ってきた<span class="bold" style="color:#533f53">薫子</span>たちの前に<br/>
+                立ちはだかるは最強の敵<span class="bold red">“市ヶ谷の魔女”</span><br/>
+<br/>
+                上に立つ者とは……キャプテンとは……<br/>
+                果たしてなんであろうか……<br/>
+<br/>
+                自問自答の繰り返しの中で<br/>
+                迷いを振り払うかのように<br/>
+                今、薫子が躍動する<br/>
+<br/>
+<span class="bold yellow" style="font-size:120%">『隊長代行 アタッカー薫子 SEASON2』</span><br/>
+<br/>
+                幡ヶ谷婦人会よ、無垢であれ<br/>
+                いつか、その努力が報われる日まで……
+            </div>
+</div>
+</div>

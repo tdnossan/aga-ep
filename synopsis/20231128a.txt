@@ -1,0 +1,41 @@
+<div style="background-color:#ff5d61;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.3rem">
+<span class="bold red">聖なる夜</span>に、星守たちが帰ってくる
+            </div>
+<div style="margin-bottom:0.1rem">
+                しんしんと降る雪にイルミきらめく街並み
+            </div>
+<div style="margin-bottom:0.3rem">
+                流れるBGMもクリスマスソングに染まってて……
+            </div>
+<div style="margin-bottom:0.1rem">
+                神樹ヶ峰女学園でも神樹さまを
+            </div>
+<div style="margin-bottom:0.1rem">
+                かわいくしようと盛り上がるくるみ達
+            </div>
+<div style="margin-bottom:0.3rem">
+                星守一同も<span class="bold yellow">クリスマス</span>を待ちわびてます
+            </div>
+<div style="margin-bottom:0.1rem">
+                けれど、忍び寄る<span class="bold" style="color:#594e52">小さな影</span>は
+            </div>
+<div style="margin-bottom:0.1rem">
+                星守、そしてアクトレスに
+            </div>
+<div style="margin-bottom:0.3rem">
+                ゆっくりと迫っているのでした……
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold red" style="font-size:120%"> バトルガール ハイスクール</span>
+</div>
+<div style="margin-bottom:0.3rem">
+<span class="bold red" style="font-size:120%"> ロスト・クリスマス編</span>
+</div>
+<div>
+                届いて、<span class="bold red">わたし</span><span class="bold pink">たち</span>の想い――
+            </div>
+</div>
+</div>

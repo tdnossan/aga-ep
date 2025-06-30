@@ -1,0 +1,35 @@
+<div style="background-color:#ff6f61;margin:0.6rem auto">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+<span class="bold" style="color:#c02034">小石川 エマ</span>と<span class="bold" style="color:#ffd321">佐伯 リツカ</span>は
+            </div>
+<div style="margin-bottom:0.3rem">
+                課外活動でアクトレスをすることになった。
+            </div>
+<div style="margin-bottom:0.1rem">
+                受け入れ先は成子坂製作所。
+            </div>
+<div style="margin-bottom:0.1rem">
+                とある事情で参加できなくなった<span class="bold" style="color:#ff9488">結城 まどか</span>と
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold" style="color:#008d98">小鳥遊 暦</span>の分もがんばる、とリツカは張り切る。
+            </div>
+<div style="margin-bottom:0.1rem">
+                エマもカッコいいメカに囲まれた理想郷で
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold" style="color:#eebf15">新たなる出会い</span>が待っていた。
+            </div>
+<div style="margin-bottom:0.1rem">
+                エマとリツカの<span class="bold" style="color:#794e4c"><ruby><rb>課外</rb><rt>アクトレス</rt></ruby>活動</span>、
+            </div>
+<div style="margin-bottom:0.1rem">
+                いったいどうなることやら……
+            </div>
+<div>
+                そして、まどかと暦は……？
+            </div>
+</div>
+</div>

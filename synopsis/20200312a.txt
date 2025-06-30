@@ -1,0 +1,18 @@
+<div style="background-color:#9fc24d;margin:0.8rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+            芹菜お姉さんとモモタンが<br/>
+            子どもたちが知らない<span class="bold navy">大人の事情</span>を覗き見る<br/>
+<br/>
+            さてさてどんな大人の事情が待っているのかな？<br/>
+            さぁ、一緒に<span class="bold red">魔法の言葉</span>を唱えよう<br/>
+<br/>
+<span class="bold orange" style="font-size:120%">くるくるにゃんにゃんごろにゃーご<br/>
+            すんすんけろけろのモーモタン！</span><br/>
+<br/>
+            今回は、<span class="bold">ヤシマ重工株式会社</span>を見学するお話だよ<br/>
+<br/>
+            ――東京シャード児童福祉審議委員会推薦――<br/>
+            『突撃！ おしごと見学物語』
+        </div>
+</div>

@@ -1,0 +1,35 @@
+<div style="background-color:#6e4a55;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                食堂が休業日の成子坂製作所
+            </div>
+<div style="margin-bottom:0.1rem">
+                アクトレスと隊長は弁当を持ち寄り、
+            </div>
+<div style="margin-bottom:0.3rem">
+                談話室での昼食休憩を取っていた
+            </div>
+<div style="margin-bottom:0.1rem">
+                テレビからは<span class="bold" style="color:#d77642">宇佐元 杏奈</span>が出演した
+            </div>
+<div style="margin-bottom:0.3rem">
+                懐かしいCMが流れる
+            </div>
+<div style="margin-bottom:0.1rem">
+                CMの話題に盛り上がる中、
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold" style="color:#998981">神宮寺 真理</span>は当時のことを思い出し、
+            </div>
+<div style="margin-bottom:0.3rem">
+                静かに語り始める
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold" style="color:#6e4a55;font-size:120%">「彗星のファーストタッチ」</span>
+</div>
+<div>
+                思い出は輝き、流れる星のように――
+            </div>
+</div>
+</div>

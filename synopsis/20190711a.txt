@@ -1,0 +1,17 @@
+<div style="border:0.08rem outset;width:95%;background-color:#f3981d;margin:0.5rem auto">
+<div class="center" style="background-color:#f5f5dc;margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.2rem">＜　あらすじ　＞</p>
+<ruby>特別カリキュラム<rt>ブートキャンプ</rt></ruby>の実施を宣言した<br/>
+<span class="bold navy">聖アマルテア女学院生徒会</span><br/>
+<br/>
+            それぞれの思惑が交差する中、<br/>
+<span class="bold red">闘いの火蓋</span>が切られた<br/>
+<br/>
+            待ち受けるは過酷な<span class="bold red">DEAD or DIE</span><br/>
+            果たして少女たちの運命や如何に！<br/>
+<br/>
+<span class="bold navy">――聖アマルテア女学院生徒会――</span><br/>
+<br/>
+<p class="bold" style="font-size:150%">ドデカくヤローぜ。</p>
+</div>
+</div>

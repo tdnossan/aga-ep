@@ -1,0 +1,25 @@
+<div style="background-color:#ff69b4;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                相河 愛花、一条 綾香、小芦 睦海の
+            </div>
+<div style="margin-bottom:0.1rem">
+                チーム・バーベナは、
+            </div>
+<div style="margin-bottom:0.1rem">
+                一流チームの証として戦績とファン投票で選ばれる
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold pink">「アクトレスフェスタ」</span>の出場を狙っていた。
+            </div>
+<div style="margin-bottom:0.1rem">
+                そんな彼女たちに下落合 桃歌は
+            </div>
+<div style="margin-bottom:0.3rem">
+                ファン投票を得る秘策を授ける。
+            </div>
+<div>
+<span class="bold" style="color:#ff9019;font-size:110%">「あなたたちはアイドルになるのよっ☆」</span>
+</div>
+</div>

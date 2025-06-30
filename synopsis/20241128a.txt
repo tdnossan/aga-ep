@@ -1,0 +1,41 @@
+<div style="background-color:#ed8413;margin:0.6rem auto">
+<div class="bg_white" style="margin:0.2rem 0;padding:0.2rem">
+<p class="bold center" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                本栖高校に通う女子高生の
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold" style="color:#f6a8b1"><ruby><rb>各務原</rb><rt>かがみはら</rt></ruby> なでしこ</span>と<span class="bold" style="color:#45556e"><ruby><rb>志摩</rb><rt>しま</rt></ruby> リン</span>は
+            </div>
+<div style="margin-bottom:0.3rem">
+                山梨のとあるキャンプ場でのキャンプを計画する。
+            </div>
+<div style="margin-bottom:0.1rem">
+                キャンプ場に到着したなでしことリンは
+            </div>
+<div style="margin-bottom:0.1rem">
+                東京から来た<span class="bold" style="color:#ee5b05"><ruby><rb>日向</rb><rt>ひむかい</rt></ruby> リン</span>、<span class="bold" style="color:#0c8c0e"><ruby><rb>蛙坂 来弥</rb><rt>かえるざか らいや</rt></ruby></span>、<span class="bold" style="color:#e1800e"><ruby><rb>米良渕 花浪</rb><rt>めらぶち かなみ</rt></ruby></span>、
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold" style="color:#EEC523"><ruby><rb>駒添 絵伝</rb><rt>こまぞい えでん</rt></ruby></span>ら同じ高校に通うグループと出会い、
+            </div>
+<div style="margin-bottom:0.1rem">
+                すぐに意気投合。
+            </div>
+<div style="margin-bottom:0.3rem">
+                共にキャンプを楽しむこととなる。
+            </div>
+<div style="margin-bottom:0.1rem">
+                「たのしい」と「たのしい」が互いに紡がれて、
+            </div>
+<div style="margin-bottom:0.1rem">
+                アウトドア系ガールズストーリー
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold" style="color:#ed8413">『トンネルを抜けたら不思議の国でした』</span>の
+            </div>
+<div style="margin-bottom:0.1rem">
+                新しい幕が上がる。
+            </div>
+</div>
+</div>

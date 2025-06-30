@@ -1,0 +1,23 @@
+<div style="background-color:#7fbe25;margin:0.4rem auto 0">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.2rem">
+<p class="bold" style="font-size:110%;margin-bottom:0.2rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                        フレームアームズ・ガールの
+                    </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold green">【轟雷】</span>が成子坂製作所にやってきた。
+                    </div>
+<div style="margin-bottom:0.1rem">
+                        目的はアリスギアの実装試験と実戦運用試験。
+                    </div>
+<div style="margin-bottom:0.3rem">
+                        ２週間の運用でバトルデータの収集を行うという。
+                    </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold red">【轟雷】とアクトレスたちの夢の共演</span>が
+                    </div>
+<div style="margin-bottom:0.1rem">
+                        いよいよ始まる！
+                    </div>
+</div>
+</div>

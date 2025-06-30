@@ -1,0 +1,26 @@
+<div style="background-color:#942343;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                エンパイア中野が大ピンチ！
+            </div>
+<div style="margin-bottom:0.1rem">
+                窮地に陥った可愛い後輩たちを救うため、
+            </div>
+<div style="margin-bottom:0.3rem">
+                四谷ゆみが彼女たちに<span class="bold red">秘策</span>を授けるのだが……。
+            </div>
+<div style="margin-bottom:0.1rem">
+                果たしてエンパイア中野の運命は？
+            </div>
+<div style="margin-bottom:0.3rem">
+                そして<span class="bold" style="color:#3e9cc9">謎の美少女</span>は誰なのか？
+            </div>
+<div style="margin-bottom:0.1rem">
+                今宵、<span class="bold" style="color:#6c272d">妖艶なドレス</span>に身を包みしアクトレスたちが
+            </div>
+<div>
+                華麗に夜空を舞う！
+            </div>
+</div>
+</div>

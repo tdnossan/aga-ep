@@ -1,0 +1,47 @@
+<div style="background-color:#dc143c;margin:0.8rem auto 0.4rem">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                風光明媚な山間に佇む瀟洒な街並み
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold pink">うら若き乙女たち</span>が数多く住むというアクトレス村。
+            </div>
+<div style="margin-bottom:0.1rem">
+                そこは村長のタイチョーを中心に
+            </div>
+<div style="margin-bottom:0.1rem">
+                誰もが喜びを分かち合い
+            </div>
+<div style="margin-bottom:0.3rem">
+                誰もが悲しみを慈しむ美しく麗しい村落でした。
+            </div>
+<div style="margin-bottom:0.1rem">
+                しかし、ある日突然
+            </div>
+<div style="margin-bottom:0.1rem">
+                村長のタイチョーの死とともに村は深い霧に閉ざされ
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold" style="color:#dc143c">人狼の伝説</span>は蘇ったのです。
+            </div>
+<div style="margin-bottom:0.1rem">
+                人狼に怯える夜が
+            </div>
+<div style="margin-bottom:0.1rem">
+                互いに疑い、憎しみ合う日々が
+            </div>
+<div style="margin-bottom:0.3rem">
+                アクトレスを襲ったのです。
+            </div>
+<div style="margin-bottom:0.1rem">
+                そして、人知れず暗躍し
+            </div>
+<div style="margin-bottom:0.3rem">
+                最後に笑う<span class="bold" style="color:#dc143c">妖狐</span>――
+            </div>
+<div style="margin-bottom:0.1rem">
+                悪夢は……終わらない。
+            </div>
+</div>
+</div>

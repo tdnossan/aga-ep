@@ -1,0 +1,56 @@
+<div style="background-color:#ee7800;margin:0.6rem auto">
+<div class="bg_white" style="margin:0.2rem 0;padding:0.2rem">
+<p class="bold center" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.3rem">
+                ハッピーハロウィン！
+            </div>
+<div style="margin-bottom:0.1rem">
+                隊長さんは<span class="bold" style="color:#c71585">キョンシー</span>って知ってる？
+            </div>
+<div style="margin-bottom:0.1rem">
+                ゾンビみたいな物の怪で、
+            </div>
+<div style="margin-bottom:0.1rem">
+                生き血を求めて飛び跳ねて移動するの。
+            </div>
+<div style="margin-bottom:0.3rem">
+                噛まれたらその人もキョンシーになっちゃうとか！？
+            </div>
+<div style="margin-bottom:0.1rem">
+                だけど、お札を使えば
+            </div>
+<div style="margin-bottom:0.1rem">
+                それを使役することもできるんだってー。
+            </div>
+<div style="margin-bottom:0.3rem">
+                なにごとも使う人次第っていうことかな？
+            </div>
+<div style="margin-bottom:0.1rem">
+                でさでさ、ハロウィンのコスプレにも
+            </div>
+<div style="margin-bottom:0.1rem">
+                ばっちり合うんだよー
+            </div>
+<div style="margin-bottom:0.3rem">
+                お札とか、飛び跳ねる仕草とか特徴的だからねっ。
+            </div>
+<div style="margin-bottom:0.1rem">
+                もしそんな中に、<span class="bold red">本物</span>が紛れ込んでたらどうするー？
+            </div>
+<div style="margin-bottom:0.1rem">
+                なんてね……って、
+            </div>
+<div style="margin-bottom:0.1rem">
+                実はこの前、すっごい大変なことがあってさー。
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold" style="color:#332230">深沙希っち</span>と……<span class="bold" style="color:#453372">シャノアール</span>がっ。
+            </div>
+<div style="margin-bottom:0.1rem">
+                まー、詳しい話はまたあとで。
+            </div>
+<div style="margin-bottom:0.1rem">
+                お菓子をくれたら教えてあげるねっ。
+            </div>
+</div>
+</div>

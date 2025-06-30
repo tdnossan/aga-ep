@@ -1,0 +1,32 @@
+<div style="background-color:#000080;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.3rem">
+                ついに！　あの少女たちが再び彼の地へ！
+            </div>
+<div style="margin-bottom:0.1rem">
+                待ち受ける<span class="bold" style="color:#4682b4">海の生き物</span>たちは
+            </div>
+<div style="margin-bottom:0.3rem">
+                何を語りかけてくるのか！
+            </div>
+<div style="margin-bottom:0.1rem">
+                謎とロマンに満ちたクエスチョンの数々
+            </div>
+<div style="margin-bottom:0.1rem">
+                海洋の神秘を目の前にした少女たちが
+            </div>
+<div style="margin-bottom:0.3rem">
+                さらなる不思議と出逢う
+            </div>
+<div style="margin-bottom:0.3rem">
+                さあ、再び少女たちと<span class="bold" style="color:#1c2d65">大洗</span>へ出かけよう
+            </div>
+<div style="margin-bottom:0.1rem">
+                次回、<span class="bold skyblue">『再会のオーシャンテラス</span>
+</div>
+<div>
+<span class="bold skyblue">～アクアワールド・大洗～』</span>お楽しみに！
+            </div>
+</div>
+</div>

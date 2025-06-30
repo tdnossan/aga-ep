@@ -1,0 +1,28 @@
+<div style="background-color:#043c78;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                遂に始まりました！
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold red">史上最大！</span>アクトレスだらけのクイズ番組
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold pink">『あんなのクイズでぴょん！ぴょん！』</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                苛烈を極めた国内予選を
+            </div>
+<div style="margin-bottom:0.1rem">
+                勝ち抜いたアクトレスチームが
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold navy">常夏の楽園</span>を目指し激闘を繰り広げる！！
+            </div>
+<div style="margin-bottom:0.1rem">
+                果たしてハワイシャードへ行けるのは
+            </div>
+<div>
+<span class="bold red">どのアクトレスチームか！</span>
+</div>
+</div>

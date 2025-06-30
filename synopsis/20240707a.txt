@@ -1,0 +1,28 @@
+<div style="background-color:#f89c1c;margin:0.4rem auto 0">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.2rem">
+<p class="bold" style="font-size:110%;margin-bottom:0.2rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.3rem">
+                        新技術開発は実用試験の段階へ。
+                    </div>
+<div style="margin-bottom:0.1rem">
+                        今回の目的はさまざまな環境下での
+                    </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold navy">バトルデータ収集</span>。
+                    </div>
+<div style="margin-bottom:0.1rem">
+                        アクトレスとの再会を喜ぶ轟雷たちの前に、
+                    </div>
+<div style="margin-bottom:0.3rem">
+                        新たな<span class="bold" style="color:#ff8c00">FAガール</span>が現れた！
+                    </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold navy" style="font-size:120%">「轟雷！ バトルすっるよぉぉぉ～！」</span>
+</div>
+<div style="margin-bottom:0.1rem">
+<span class="bold" style="color:#ff8c00">フレズヴェルク</span>も加わって、
+                    </div>
+<div style="margin-bottom:0.1rem">
+                        東京シャードも<span class="bold red">FAガールまみれですよ！</span>
+</div>
+</div>

@@ -1,0 +1,19 @@
+<div style="background-color:#ff5d61;margin:0.8rem auto">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.2rem">
+<p class="bold" style="font-size:110%;margin-bottom:0.2rem">＜　あらすじ　＞</p>
+<span class="navy">青い光</span>を帯びた未知の<span class="red">敵</span>が<br/>
+            東京シャードに迫ろうとしている。 <br/>
+<br/>
+<span class="bold navy">CODE-BLUE 発令！</span><br/>
+<br/>
+            AEGiSの要請を受け、<br/>
+<span class="green">神樹ヶ峰女学園</span>から星守が応援にかけつける。 <br/>
+<br/>
+            異なるふたつの世界の出会い<br/>
+            ……そして、生まれる絆。 <br/>
+<span class="red">星守</span>と<span class="pink">アクトレス</span>の合同作戦が今、始まる！ <br/>
+<br/>
+            届いて、<span class="red">わたし</span><span class="pink">たち</span>の想い――<br/>
+<br/>
+</div>
+</div>

@@ -169,6 +169,7 @@ class EventCard extends MovieCard {
             }
         }
     
+        let refmovie = m.findRefMovie()
         setURLHash(`#${m.eventid}`)
     
         //console.log(m)
@@ -185,7 +186,7 @@ class EventCard extends MovieCard {
             $(".modal-history").show()
             let ul = $(".modal-history ul")
             for(let movie of movies) {
-                console.log(movie)
+                //console.log(movie)
                 let history = movie.history != "" ? ` (${movie.history})` : ""
                 let active = movie.date == m.date ? " active" : ""
                 ul.append(
@@ -194,7 +195,9 @@ class EventCard extends MovieCard {
         }
     
         if(m.synopsis) {
-            fetch(`synopsis/${m.eventid}.txt`).then((r) => {
+            let refid = (refmovie) ? refmovie.eventid : m.eventid
+
+            fetch(`synopsis/${refid}.txt`).then((r) => {
                 return r.text()
             }).then(data => {
                 let src = convertHtml2Iframe(data)
@@ -555,7 +558,7 @@ $(document).ready(function(){
     })
 
     if(!LOCAL) {
-        $("button.synopsis").hide()
+        //$("button.synopsis").hide()
         //$("button.resume").hide()
     }
 })

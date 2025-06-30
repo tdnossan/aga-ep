@@ -1,0 +1,16 @@
+<div style="background-color:#000080;margin:0.5rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+            AEGiSのイベントでアイドルユニットとして<br/>
+            デビューした<span class="bold pink">チーム＜バーベナ＞</span><br/>
+            近頃はアクトレスとしての実力も伴い<br/>
+<span class="bold green">人気も急上昇中</span>の彼女たち！<br/>
+<br/>
+            新曲のプロモーションとファンサービスを兼ねた<br/>
+<span class="bold green">ビックプロジェクト</span>も始動したものの<br/>
+            三人は思いつめた顔で隊長の下へ……<br/>
+<br/>
+<span class="bold red">
+            「隊長、わたしたちとデートして！」</span>
+</div>
+</div>

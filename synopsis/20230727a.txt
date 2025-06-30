@@ -1,0 +1,29 @@
+<div style="background-color:#0068b7;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                はじめの一歩はたまたま、ふたり一緒で
+            </div>
+<div style="margin-bottom:0.1rem">
+                でも、なにもかも違ってて
+            </div>
+<div style="margin-bottom:0.1rem">
+                それからも、どこかぎくしゃくして
+            </div>
+<div style="margin-bottom:0.1rem">
+                けれど、ふたり一緒になって
+            </div>
+<div style="margin-bottom:0.3rem">
+                そう、<span class="bold orange">「突き進む」</span>ことになったんだって
+            </div>
+<div style="margin-bottom:0.1rem">
+                振り返れば、<span class="bold" style="color:#e9a128">あの日</span>の<span class="bold" style="color:#3f4783">ふたり</span>がまだ在るようで
+            </div>
+<div style="margin-bottom:0.1rem">
+                あの刻と同じ、宙を翔んでいる
+            </div>
+<div>
+                だからそう、きっと――
+            </div>
+</div>
+</div>

@@ -1,0 +1,47 @@
+<div style="background-color:#ff6060;margin:0.8rem auto 0.4rem">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.3rem">
+                グッモーニン、エンゼルス。
+            </div>
+<div style="margin-bottom:0.1rem">
+                久しぶりのビッグな仕事ね。
+            </div>
+<div style="margin-bottom:0.1rem">
+                ワタシたち、ついに晴れやかな大舞台に
+            </div>
+<div style="margin-bottom:0.1rem">
+                立つことができるわ。
+            </div>
+<div style="margin-bottom:0.3rem">
+                そう、<span class="bold orange">大ヒット映画の主演女優</span>よ！
+            </div>
+<div style="margin-bottom:0.1rem">
+                ユミもエンゼルスに入りたい？
+            </div>
+<div style="margin-bottom:0.3rem">
+                ふふっ、みなまで言う必要はナッシング。
+            </div>
+<div style="margin-bottom:0.1rem">
+                ワタシは<span class="bold" style="color:#e5ae4a">アクション</span>が得意なの。
+            </div>
+<div style="margin-bottom:0.1rem">
+                ヤヨイは<span class="bold" style="color:#f481a4">セリフ回し</span>が秀逸よ。
+            </div>
+<div style="margin-bottom:0.1rem">
+                トウカは<span class="bold" style="color:#ff9019">愛想</span>がよくて、<span class="bold" style="color:#ff9019">演技のプロ</span>。
+            </div>
+<div style="margin-bottom:0.3rem">
+                ネオはあの<span class="bold" style="color:#fb6a00">真剣さ</span>と<span class="bold" style="color:#fb6a00">ガッツ</span>は見習うべきだわ。
+            </div>
+<div style="margin-bottom:0.1rem">
+                さあ、仕事ね。
+            </div>
+<div style="margin-bottom:0.1rem">
+                必ず<span class="bold orange">中野フォーエバー映画祭</span>で
+            </div>
+<div style="margin-bottom:0.1rem">
+                ノミネートされるわよ！
+            </div>
+</div>
+</div>

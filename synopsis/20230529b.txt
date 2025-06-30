@@ -1,0 +1,38 @@
+<div style="background-color:#26499d;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+<span class="bold pink">アクトレス</span>と<span class="bold" style="color:#0068b7">ウィッチ</span>たちは
+            </div>
+<div style="margin-bottom:0.3rem">
+                異世界で閉ざされた時間の輪の中に囚われていた。
+            </div>
+<div style="margin-bottom:0.1rem">
+                彼女たちは世界の<span class="bold yellow">謎</span>を解き、
+            </div>
+<div style="margin-bottom:0.1rem">
+                敵本体のコア破壊に挑もうとするが――
+            </div>
+<div style="margin-bottom:0.1rem">
+                知らぬ間に、もう一組の
+            </div>
+<div style="margin-bottom:0.3rem">
+                アクトレスとウィッチの出会いが起きていた。
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold orange">シャーリー</span>と<span class="bold" style="color:#e5ae4a">シャーリー</span>。
+            </div>
+<div style="margin-bottom:0.1rem">
+                同じ名前の彼女たちは異世界転移時に
+            </div>
+<div style="margin-bottom:0.3rem">
+                パートナーが<span class="bold red">入れ替わって</span>しまっていた！
+            </div>
+<div style="margin-bottom:0.1rem">
+                はたしてシャーリーたちは仲間と合流し、
+            </div>
+<div>
+                元の世界へ戻れるのだろうか。
+            </div>
+</div>
+</div>

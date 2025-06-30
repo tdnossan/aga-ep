@@ -1,0 +1,25 @@
+<div style="background-color:#a52a2a;margin:0.8rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+<span class="bold red">「北海の地で祖国の威信を示してほしい」</span><br/>
+<br/>
+                ミハイロフから突如として与えられた任務によって<br/>
+                アクトレスたちを連れ、ニーナが訪れたのは<br/>
+                極東の最北端、北海道<br/>
+<br/>
+                目的地である稚内へと向かう<br/>
+                特急列車の中で<span class="bold red">事件</span>が起こる<br/>
+<br/>
+<span class="bold skyblue">「紅花がいないの――」</span><br/>
+<br/>
+                次々と起こる、不可解な事件……<br/>
+                ニーナとファティマは<br/>
+<span class="bold yellow">真相</span>に辿り着くことができるのか？<br/>
+<br/>
+                クリスマスミステリー<br/>
+                北海道エクスプレス ～北限に消えた<ruby><rb>白鳥</rb><rp>＜</rp><rt>レタッチリ</rt><rp>＞</rp></ruby>の涙～<br/>
+<br/>
+<span class="bold skyblue">「大丈夫、わたし、理解したから――」</span>
+</div>
+</div>

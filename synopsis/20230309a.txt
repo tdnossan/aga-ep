@@ -1,0 +1,20 @@
+<div style="background-color:#4c8ecb;margin:0.4rem auto 0">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.2rem">
+<p class="bold" style="font-size:110%;margin-bottom:0.2rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.3rem">
+                        新技術開発テストが再開されることになった。
+                    </div>
+<div style="margin-bottom:0.1rem">
+                        成子坂のアクトレスたちに人気の轟雷に
+                    </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold green">【スティレット】</span>は対抗心を燃やす。
+                    </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold navy">「あたしの実力を見せてやるんだから！」</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                        今度のテストはなにやら波乱アリ？
+                    </div>
+</div>
+</div>

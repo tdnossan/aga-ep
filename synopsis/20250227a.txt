@@ -1,0 +1,23 @@
+<div style="background-color:#d9333f;margin:0.6rem auto">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold center" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+<span class="bold navy">あなた</span>、信じられますか
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold navy">あなた</span>の気持ちで、
+            </div>
+<div style="margin-bottom:0.3rem">
+                たくさんの人が救われるかもしれないこと
+            </div>
+<div style="margin-bottom:0.1rem">
+                いつか<span class="bold navy">あなた</span>や、
+            </div>
+<div style="margin-bottom:0.3rem">
+                親しい人たちを救うかもしれないこと
+            </div>
+<div>
+<span class="bold red">少しでも知ってくれれば嬉しいです</span>
+</div>
+</div>
+</div>

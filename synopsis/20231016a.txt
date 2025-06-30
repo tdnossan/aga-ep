@@ -1,0 +1,41 @@
+<div style="background-color:#e29399;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                私が通う<span class="bold navy">聖アマルテア女学院</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                ここは、謹厳実直を校訓とし、
+            </div>
+<div style="margin-bottom:0.1rem">
+                伝統と格式、創造と清淑を旨とする
+            </div>
+<div style="margin-bottom:0.3rem">
+                創立330年を超える名門女学院
+            </div>
+<div style="margin-bottom:0.1rem">
+                学院生は、常に慎み深く行動し、
+            </div>
+<div style="margin-bottom:0.3rem">
+                謙虚さと淑女としての立ち振る舞いを求められます
+            </div>
+<div style="margin-bottom:0.1rem">
+                そんな学院で私は、
+            </div>
+<div style="margin-bottom:0.1rem">
+                クラスをまとめる正委員を務めているのですが
+            </div>
+<div style="margin-bottom:0.1rem">
+                最近、私たちのクラスは、
+            </div>
+<div style="margin-bottom:0.3rem">
+                ちょっとした<span class="bold red">問題</span>を抱えていました
+            </div>
+<div style="margin-bottom:0.1rem">
+                私は正委員として、内心とても困っていたのですが
+            </div>
+<div>
+                そんな時、私の前に<span class="bold" style="color:#de255a">素敵な先生</span>が現れて……
+            </div>
+</div>
+</div>

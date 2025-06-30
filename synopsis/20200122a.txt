@@ -1,0 +1,13 @@
+<div style="background-color:#ff696a;margin:0.8rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+            はい、陽子です<br/>
+<span class="bold yellow">『アクトレス名鑑』</span>の編纂中で、結構大変<br/>
+            でもファイト！<br/>
+<br/>
+<span class="bold orange" style="font-size:120%">事務員天使♡ようこそ陽子</span><br/>
+<br/>
+            わたしたちの活躍、見に来てください<br/>
+            はい
+        </div>
+</div>

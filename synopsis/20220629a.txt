@@ -1,0 +1,29 @@
+<div style="background-color:#0075c2;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                アクトレスたちがバカンスに向かったのは
+            </div>
+<div style="margin-bottom:0.1rem">
+                常夏の楽園<span class="bold pink">「ヴィーナス諸島シャード」</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                夜露たちは<span class="bold" style="color:#4747ab">「かすみ」</span>
+</div>
+<div style="margin-bottom:0.4rem">
+<span class="bold" style="color:#21374c">「マリー・ローズ」</span>の歓迎を受ける。
+            </div>
+<div style="margin-bottom:0.1rem">
+                しかし、そこにも
+            </div>
+<div style="margin-bottom:0.4rem">
+<span class="bold red">ヴァイスの魔の手</span>が待ち受けていた。
+            </div>
+<div style="margin-bottom:0.1rem">
+                アクトレスたちは島のために立ち上がり
+            </div>
+<div>
+                ふたりの<span class="bold pink">「ヴィーナス」</span>は共に戦うことを決意する！
+            </div>
+</div>
+</div>

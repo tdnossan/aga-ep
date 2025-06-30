@@ -1,0 +1,28 @@
+<div style="background-color:#000080;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                AEGiSのイベントでアイドルユニットとして
+            </div>
+<div style="margin-bottom:0.1rem">
+                デビューした<span class="bold pink">チーム＜バーベナ＞</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                近頃はアクトレスとしての実力も伴い
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold green">人気も急上昇中</span>の彼女たち！
+            </div>
+<div style="margin-bottom:0.1rem">
+                新曲のプロモーションとファンサービスを兼ねた
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold green">ビッグプロジェクト</span>も始動したものの
+            </div>
+<div style="margin-bottom:0.3rem">
+                三人は思いつめた顔で隊長の下へ……
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold red" style="font-size:120%">「隊長、わたしたちとデートして！」</span>
+</div>
+</div>

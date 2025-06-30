@@ -1,0 +1,28 @@
+<div style="background-color:#ffbb44;margin:0.8rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                飼い主たちの愛情を一身に受け
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold red">文鳥たち</span>が大空へと一斉に羽ばたく
+            </div>
+<div style="margin-bottom:0.1rem">
+                幾多の苦難を乗り越え
+            </div>
+<div style="margin-bottom:0.1rem">
+                文鳥たちは果てしない空の道を巡り
+            </div>
+<div style="margin-bottom:0.4rem">
+<span class="bold orange">必ず帰ってくる</span>と誓うのであった
+            </div>
+<div style="margin-bottom:0.1rem">
+                これは、文鳥たちの生態を
+            </div>
+<div style="margin-bottom:0.2rem">
+                余すことなく追いかけた感動のドキュメンタリー
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold red">今、文鳥たちは確かに大空を<ruby><rb>翔</rb><rp>＜</rp><rt>か</rt><rp>＞</rp></ruby>ける</span>
+</div>
+</div>

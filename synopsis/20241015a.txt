@@ -1,0 +1,47 @@
+<div style="background-color:#0092b4;margin:0.6rem auto">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+<span class="bold" style="color:#0092b4">――SMALL WORLDS</span>
+</div>
+<div style="margin-bottom:0.3rem">
+<span class="bold" style="color:#0092b4">そこにはもうひとつの世界があります――</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                大好きなお嬢様のメイドとして
+            </div>
+<div style="margin-bottom:0.1rem">
+                イル=ド=フランスシャードからやってきた
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold skyblue">ミア・ヴォワザン</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                東京シャードでは、見るもの触れるもの
+            </div>
+<div style="margin-bottom:0.1rem">
+                そのすべてが新しく、驚きの連続
+            </div>
+<div style="margin-bottom:0.3rem">
+                まさに探検のような日々
+            </div>
+<div style="margin-bottom:0.1rem">
+                そんなある日
+            </div>
+<div style="margin-bottom:0.1rem">
+                お嬢様の大切な想い出の詰まった
+            </div>
+<div style="margin-bottom:0.3rem">
+                ドールハウスが壊れてしまった。
+            </div>
+<div style="margin-bottom:0.1rem">
+                お嬢様との想い出を修繕するため
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold yellow">金潟 すぐみ</span>と<span class="bold navy">新居目 安里</span>のモデラーに助力を得て
+            </div>
+<div>
+                ミアは今、<span class="bold" style="color:#0092b4">1/80の世界</span>へと飛び込む            
+            </div>
+</div>
+</div>

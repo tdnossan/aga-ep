@@ -1,0 +1,31 @@
+<div style="background-color:#4448ce;margin:0.8rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                「機械少女」に「模型の武装」を施し戦わせる
+            </div>
+<div style="margin-bottom:0.3rem">
+                バトルプラホビー<span class="bold navy">「メガミデバイス」</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                その画期的な存在を通じて、
+            </div>
+<div style="margin-bottom:0.3rem">
+                成子坂製作所の面々は<span class="bold red">ある出会い</span>を経験する。
+            </div>
+<div style="margin-bottom:0.1rem">
+                奥深い<span class="bold purple">模型の世界</span>、手に汗握る<span class="bold red">バトル</span>。
+            </div>
+<div style="margin-bottom:0.1rem">
+                数多の想いを越えて
+            </div>
+<div style="margin-bottom:0.3rem">
+                少女たちが至った<span class="bold pink">愛の境地</span>とは――
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold navy">「セットアップOK……</span>
+</div>
+<div style="margin-bottom:0.1rem">
+<span class="bold navy">SOL ラプター、バトルスタート！」</span>
+</div>
+</div>

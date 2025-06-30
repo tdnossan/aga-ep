@@ -1,0 +1,21 @@
+<div style="background-color:#db7093;margin:0.5rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+            意気揚々と応募した夏。<br/>
+            当選に歓喜した秋。<br/>
+<br/>
+            そして季節は巡り、年の瀬も押し迫った今。<br/>
+            〆切という現実を前に、万策尽き、<br/>
+            絶望に押しつぶされる<span class="pink">藤野やよい</span>の姿がそこにあった。<br/>
+<br/>
+            書きたいという熱情だけでは足りず、<br/>
+            さりとて書かなければ終焉をみることはなく、<br/>
+            ただ無常にも刻一刻と時間だけが<br/>
+            浪費されていく諸行無常の中で、<br/>
+            無間地獄の如き<span style="color:#FF0000"><ruby><rb>業</rb><rp>＜</rp><rt>カルマ</rt><rp>＞</rp></ruby></span>を背負いし乙女の<br/>若さゆえの悲劇と魂の叫びを<br/>
+            壮大なスケールで綴った<span style="color:#FF0000"><ruby><rb>宇宙歌劇</rb><rp>＜</rp><rt>スペースオペラ</rt><rp>＞</rp></ruby></span>の緞帳が上がる。<br/>
+<br/>
+<span class="bold" style="font-size:120%">『年末進行 文芸心中』</span><br/>
+            ～<span style="color:#db7093">儚</span>く、<span style="color:#db7093">脆</span>く、<span style="color:#db7093">狂</span>おしい。それが<span style="color:#db7093"><ruby><rb>執筆</rb><rp>＜</rp><rt>レ・ミゼラブル</rt><rp>＞</rp></ruby></span>～<br/>
+</div>
+</div>

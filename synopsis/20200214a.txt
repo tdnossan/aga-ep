@@ -1,0 +1,52 @@
+<div style="background-color:#1f2f54;margin:0.8rem auto">
+<div class="center bg_skin" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="padding-bottom:0.3rem">
+                代官山のサロンで<br/>
+                髪を変えて
+            </div>
+<div style="padding-bottom:0.3rem">
+                ずっと今のままでは<br/>
+                いられない
+            </div>
+<div style="padding-bottom:0.3rem">
+                すべてを捨てて<br/>
+                故郷へ帰る、と
+            </div>
+<div style="padding-bottom:0.3rem">
+                もう終わりにする、と
+            </div>
+<div style="padding-bottom:0.3rem">
+                さみしそうに<br/>
+                きみは、そう告げた
+            </div>
+<div style="padding-bottom:0.3rem">
+                あなたといることも<br/>
+                できなくなる
+            </div>
+<div style="padding-bottom:0.3rem">
+                心、揺れる、アクトレス
+            </div>
+<div style="padding-bottom:0.3rem">
+                優しさに甘えたまま<br/>
+                過ごしてきたから
+            </div>
+<div style="padding-bottom:0.3rem">
+                やるせない思いで<br/>
+                現実から目を逸らし<br/>
+                逃げていた、あの日
+            </div>
+<div style="padding-bottom:0.3rem">
+                別れは突然に
+            </div>
+<div style="padding-bottom:0.3rem">
+                どうすればいいのか<br/>
+                わからなくて――<br/>
+                その運命は変えられるのか？
+            </div>
+<div style="padding-bottom:0.1rem">
+                僕は、きみのために<br/>
+                きみを守るための隊長になる
+            </div>
+</div>
+</div>

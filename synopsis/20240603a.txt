@@ -1,0 +1,53 @@
+<div style="background-color:#0068b7;margin:0.6rem auto;text-align:center">
+<div class="bg_white" style="margin:0.2rem 0;padding:0.2rem 0.2rem 0.4rem">
+<p class="bold center" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+<span class="bold" style="color:#0068b7">ハンディレーサー</span>――
+            </div>
+<div style="margin-bottom:0.1rem">
+                ホビイから販売する自動車プラスティックモデルで
+            </div>
+<div style="margin-bottom:0.3rem">
+                電池2本を動力に実際に走らせることができる。
+            </div>
+<div style="margin-bottom:0.1rem">
+                シンプルな競技性と幅広いカスタマイズ、
+            </div>
+<div style="margin-bottom:0.1rem">
+                漫画やアニメなどのメディアミックスにより、
+            </div>
+<div style="margin-bottom:0.1rem">
+                幾度となく流行。現在では幅広い世代に愛される
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold" style="color:#d70035;">定番玩具</span>となっている――
+            </div>
+<div style="margin-bottom:0.1rem">
+                成子坂製作所では整備部を中心にブームが到来。
+            </div>
+<div style="margin-bottom:0.1rem">
+                所属アクトレスに加え、
+            </div>
+<div style="margin-bottom:0">
+                成子坂製作所のギア搬送業務等を請け負う
+            </div>
+<div style="margin-bottom:0.1rem">
+                遊馬運送のトラックドライバー<span class="bold" style="color:#556b2f"><ruby><rb>遊馬 勇</rb><rt>あすま いさみ</rt></ruby></span>も加わって
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold" style="color:#4753a2"></span>成子坂製作所GPの開催が決定する。
+            </div>
+<div style="margin-bottom:0.1rem">
+                開催は公式ページでも告知され、少年少女もまた
+            </div>
+<div style="margin-bottom:0.3rem">
+                参加を目指し、立ち上がるのだった――
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold orange" style="font-size:120%">『疾駆！ハンディレーサー成子坂GP』</span>
+</div>
+<div>
+                今、ここにスタート！
+            </div>
+</div>
+</div>

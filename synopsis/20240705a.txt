@@ -1,0 +1,31 @@
+<div style="background-color:#fdbc54;margin:0.4rem auto 0">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.2rem">
+<p class="bold" style="font-size:110%;margin-bottom:0.2rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+<span class="bold green">轟雷</span>、<span class="bold green">スティレット</span>に続いて<span class="bold green">バーゼラルド</span>も加わり、
+                    </div>
+<div style="margin-bottom:0.1rem">
+                        フレームアームズ・ガールの
+                    </div>
+<div style="margin-bottom:0.3rem">
+                        チーム運用試験が始まった。
+                    </div>
+<div style="margin-bottom:0.3rem">
+                        隊長はなんと<span class="bold navy">源内あお！</span>
+</div>
+<div style="margin-bottom:0.3rem">
+                        あお隊長の元、FAガールチームはヴァイスと戦う！
+                    </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold navy">「めんどい。適当にやればいいよね？」</span>
+</div>
+<div style="margin-bottom:0.1rem">
+<span class="bold green">「だめです、あお。</span>
+</div>
+<div style="margin-bottom:0.3rem">
+<span class="bold green">成子坂のみなさんに迷惑がかかります」</span>
+</div>
+<div style="margin-bottom:0.1rem">
+<span class="bold navy">「ふぇ～～っ」</span>
+</div>
+</div>

@@ -1,0 +1,32 @@
+<div style="background-color:#6a5acd;margin:0.8rem auto 0.4rem">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+<span class="bold skyblue">「ごきげんよう」</span>
+</div>
+<div style="margin-bottom:0.1rem">
+                アクトレスの乙女たちが集う、
+            </div>
+<div style="margin-bottom:0.3rem">
+                聖アマルテア女学院。
+            </div>
+<div style="margin-bottom:0.1rem">
+                隊長であるあなたを出迎えるのは、
+            </div>
+<div style="margin-bottom:0.1rem">
+                生徒会長の<span class="bold navy">紺堂地衛理</span>、
+            </div>
+<div style="margin-bottom:0.3rem">
+                副会長の<span class="bold yellow">州天頃椎奈</span>、風紀委員長の<span class="bold purple">仁紀藤奏</span>。
+            </div>
+<div style="margin-bottom:0.1rem">
+                可憐な花に囲まれて
+            </div>
+<div style="margin-bottom:0.1rem">
+                学院内を案内されるあなたには、
+            </div>
+<div>
+<span class="bold red">ある重要な目的</span>があった――
+            </div>
+</div>
+</div>

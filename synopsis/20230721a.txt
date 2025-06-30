@@ -1,0 +1,23 @@
+<div class="sub-box" style="margin:0.8rem auto">
+<div class="center event-date" style="font-size:100%;padding:0.2rem 0 0.3rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                遥かな昔　勇者と呼ばれる正義の剣士が
+            </div>
+<div style="margin-bottom:0.3rem">
+                人々を苦しめる悪い魔王に戦いを挑みました
+            </div>
+<div style="margin-bottom:0.1rem">
+                幾多の苦難を仲間たちと力を合わせて乗り越え
+            </div>
+<div style="margin-bottom:0.1rem">
+                ついに勇者は魔王を倒すと
+            </div>
+<div style="margin-bottom:0.3rem">
+                こうして世界に平和が訪れたのです
+            </div>
+<div>
+                クリスタルクエスト～旅立ちのとき～
+            </div>
+</div>
+</div>

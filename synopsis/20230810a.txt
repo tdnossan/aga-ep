@@ -1,0 +1,35 @@
+<div class="sub-box" style="margin:0.8rem auto">
+<div class="center event-date" style="background-color:#353535;font-size:100%;padding:0.2rem 0 0.3rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                平和とは何か。勇気とは何か。愛とは何か。
+            </div>
+<div style="margin-bottom:0.1rem">
+                春日丘家が織りなす剣と魔法のファンタジー。
+            </div>
+<div style="margin-bottom:0.1rem">
+                立ちはだかる困難と強大なモンスター。
+            </div>
+<div style="margin-bottom:0.2rem">
+                出逢いと別れ、真実と裏切り。
+            </div>
+<div style="margin-bottom:0.1rem">
+                これは、<ruby><rb>隊長</rb><rt>あなた</rt></ruby>たちが、最初で最後に出逢う物語。
+            </div>
+<div style="margin-bottom:0.1rem">
+                真実の家族の絆を描いた
+            </div>
+<div style="margin-bottom:0.3rem">
+                大スペクタクルドラマであるかもしれない。
+            </div>
+<div style="margin-bottom:0.1rem">
+                さあ、冒険の旅に出かけよう
+            </div>
+<div style="margin-bottom:0.3rem">
+                『RPG Maker シリーズコラボ 勇者もえの伝説』
+            </div>
+<div>
+                物語は終わるようで終わらない。
+            </div>
+</div>
+</div>
