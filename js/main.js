@@ -370,7 +370,7 @@ function saveSetting() {
 function convertHtml2Iframe(data){
     let blob = new Blob([
         iframetemplate
-            .replace(/\{origin\}/g, location.origin)
+            .replace(/\{origin\}/g, LOCAL ? location.origin : location.origin + "/aga-ep")
             .replace(/\{data\}/, data)], { type: 'text/html' })
     let src = URL.createObjectURL(blob)
     return src
@@ -380,10 +380,7 @@ var iframetemplate = `
 <!doctype html>
 <html lang="ja">
 <head>
-<link href="{origin}/css/common.mini.css" rel="stylesheet">
-<link href="{origin}/css/core.mini.css" rel="stylesheet">
-<link href="{origin}/css/news.mini.css" rel="stylesheet">
-<link href="{origin}/css/synopsis.css" rel="stylesheet">
+<link href="{origin}/css/iframe.css" rel="stylesheet">
 </head>
 <body>
 <div class="wrapper newsBg" id="mainScroll">
@@ -394,7 +391,7 @@ var iframetemplate = `
 </div>
 </div>
 </body>
-<script src="{origin}/lib/iframe.js" type="text/javascript"></script>
+<script src="{origin}/js/iframe.js" type="text/javascript"></script>
 </html>
 `
 
