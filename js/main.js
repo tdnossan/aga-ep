@@ -139,6 +139,10 @@ class EventCard extends MovieCard {
             `<span class="badge badge-primary refdate">${m.refdate}</span>`)
         }
 
+        if(!m.synopsis) {
+            t.find("button.synopsis").hide()
+        }
+
         if(m.videoid == "" && m.refdate == "") {
             t.find("a").css("visibility", "hidden")
         }
