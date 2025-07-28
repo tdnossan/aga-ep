@@ -1,0 +1,68 @@
+<div style="background-color:#4169e1;margin:0.6rem auto">
+<div class="bg_white" style="margin:0.2rem 0;padding:0.2rem">
+<p class="bold center" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                えどがわTVをご覧の皆さま、<span class="bold purple">蒼浜 麻駆理</span>です。
+            </div>
+<div style="margin-bottom:0.1rem">
+                とうとう、ついにこの日がやってきました！
+            </div>
+<div style="margin-bottom:0.4rem">
+                女王が、ついに江戸川に帰ってくるんです！
+            </div>
+<div style="margin-bottom:0.1rem">
+                そう、賞金女王に輝き、SGにも優出し、
+            </div>
+<div style="margin-bottom:0.1rem">
+                つい先日にはG1での優勝も果たした
+            </div>
+<div style="margin-bottom:0.1rem">
+                あの<span class="bold pink">加北 澄音</span>がホームの江戸川に凱旋です！
+            </div>
+<div style="margin-bottom:0.1rem">
+                出場するレースは「えどがわTV杯」
+            </div>
+<div style="margin-bottom:0.4rem">
+                そう、わが局の名を冠するレースですっ！
+            </div>
+<div style="margin-bottom:0.1rem">
+                レース開催中は、中継はもちろん、
+            </div>
+<div style="margin-bottom:0.1rem">
+                特別企画もいろいろ取りそろえてお送りする予定です。
+            </div>
+<div style="margin-bottom:0.1rem">
+                わたしも予想にインタビューに
+            </div>
+<div style="margin-bottom:0.4rem">
+                全力でがんばりますのでご期待ください。
+            </div>
+<div style="margin-bottom:0.1rem">
+                そうそう、今回のレースには、
+            </div>
+<div style="margin-bottom:0.1rem">
+                江戸川期待の新鋭にして女王・加北 澄音の妹弟子、
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold red">佐士原 七海</span>選手も出場します。
+            </div>
+<div style="margin-bottom:0.4rem">
+                このふたりの対決も見逃せないですね！
+            </div>
+<div style="margin-bottom:0.1rem">
+                えっ、特別企画はどんなことをやるのかって？
+            </div>
+<div style="margin-bottom:0.1rem">
+                それはですねぇ……
+            </div>
+<div style="margin-bottom:0.4rem">
+                各方面と、鋭意交渉中だそうです！
+            </div>
+<div style="margin-bottom:0.1rem">
+                それではみなさん、えどがわTV杯のスペシャル放送、
+            </div>
+<div>
+                お楽しみにしていてくださいね！
+            </div>
+</div>
+</div>
