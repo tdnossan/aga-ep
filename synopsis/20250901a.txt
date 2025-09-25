@@ -1,0 +1,29 @@
+<div style="background-color:#0068b7;margin:0.6rem auto">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                東京シャードとブリタニアに突如出現した<span class="bold red">謎の敵</span>。
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold pink">アクトレス</span>と<span class="bold red" style="color:#0068b7">ウィッチ</span>は交戦中、未知の光に包まれる。
+            </div>
+<div style="margin-bottom:0.1rem">
+                気づくとそこは「小さな陸地」と
+            </div>
+<div style="margin-bottom:0.1rem">
+                転移した「新宿周辺」以外は
+            </div>
+<div style="margin-bottom:0.3rem">
+                「大海」しかない<span class="bold red">異世界</span>だった。
+            </div>
+<div style="margin-bottom:0.1rem">
+                共通の敵を前にウィッチとアクトレスは手を取り合う！
+            </div>
+<div style="margin-bottom:0.1rem">
+                彼女たちは、この世界の<span class="bold yellow">謎</span>を解き、
+            </div>
+<div>
+                元の世界へ戻れるのか。
+            </div>
+</div>
+</div>

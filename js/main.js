@@ -271,6 +271,9 @@ class CharaCard extends MovieCard {
         setURLHash(id)
     
         $(".modal-banner img").attr("src", `resume/${id}c.avif`)
+        if(id == '015' || id == '019') {
+            $(".modal-body").html(`<img src="resume/${id}f.avif" class="img-fluid" />`)
+        }
         $("#exampleModalCenterTitle").html(c.name)
         //$(".modal-body").html(`<img src="resume/${id}c.avif" style="width: 100%;" />`)
         $("#exampleModalCenter").modal()

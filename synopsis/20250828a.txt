@@ -1,0 +1,38 @@
+<div style="background-color:#26499d;margin:0.6rem auto">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+    一度は交わった<span class="bold pink">アクトレス</span>と<span class="bold" style="color:#0068b7">ウィッチ</span>の世界だったが
+</div>
+<div style="margin-bottom:0.1rem">
+    敵本体のコアを破壊し、
+</div>
+<div style="margin-bottom:0.3rem">
+    閉ざされた時間の輪を破って脱出。
+</div>
+<div style="margin-bottom:0.1rem">
+    アクトレスとウィッチたちは
+</div>
+<div style="margin-bottom:0.3rem">
+    それぞれの世界へ還っていった。
+</div>
+<div style="margin-bottom:0.1rem">
+    すべては終わったかに見えた……
+</div>
+<div style="margin-bottom:0.1rem">
+    しかし、事態は再び繰り返される、
+</div>
+<div style="margin-bottom:0.3rem">
+    新たな<span class="bold" style="color:#0068b7">ウィッチ</span>を迎えて。
+</div>
+<div style="margin-bottom:0.1rem">
+    蘇った記憶を頼りに<span class="bold pink">アクトレス</span>と<span class="bold" style="color:#0068b7">ウィッチ</span>は
+</div>
+<div style="margin-bottom:0.3rem">
+    より強大化した<span class="bold red">敵</span>に立ち向かう！
+</div>
+<div>
+    敵の根源を倒し、あの空を取り戻すために。
+</div>
+</div>
+</div>

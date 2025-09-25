@@ -1,0 +1,29 @@
+<div style="background-color:#26499d;margin:0.6rem auto">
+<div class="center bg_white" style="margin:0.2rem 0;padding:0.2rem 0 0.4rem">
+<p class="bold" style="margin-bottom:0.3rem">＜　あらすじ　＞</p>
+<div style="margin-bottom:0.1rem">
+                異世界へ転移してしまった
+            </div>
+<div style="margin-bottom:0.1rem">
+<span class="bold pink">アクトレス</span>と<span class="bold" style="color:#0068b7">ウィッチ</span>たち。
+            </div>
+<div style="margin-bottom:0.1rem">
+                彼女たちは手を取り合い、世界の<span class="bold yellow">謎</span>を解き
+            </div>
+<div style="margin-bottom:0.3rem">
+                再び自分たちの世界への扉を開いた。
+            </div>
+<div style="margin-bottom:0.1rem">
+                だが、敵本体のコアは消滅していなかった。
+            </div>
+<div style="margin-bottom:0.3rem">
+<span class="bold" style="color:#0068b7">新たなウィッチ</span>を加え、再び異世界での戦いが始まる。
+            </div>
+<div style="margin-bottom:0.1rem">
+                アクトレスとウィッチは<span class="bold red">閉ざされた時間の輪</span>を破り、
+            </div>
+<div>
+                時空を越えた侵略を防げるのか。
+            </div>
+</div>
+</div>
